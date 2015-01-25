@@ -1,0 +1,64 @@
+---
+title: Xin Zhang's Homepage
+layout: default
+---
+
+<div class="page-header">
+	<div class="row">
+		<div class="col-lg-7 col-md-7 col-sm-6">
+			<h1><a href="#">Xin Zhang</a></h1>
+			<p>Ph.D Student</p>
+			<p> <a href="http://www.scs.gatech.edu/">School of Computer Science</a>, <a href="http://www.cc.gatech.edu/">College of Computing</a>, <a href="http://www.gatech.edu/">Georgia Institute of Technology</a></p>
+		</div>
+		<div class="col-lg-5 col-md-5 col-sm-6" style="padding-top:20px">
+			<p><i>"Dream as if you'll live forever, live as if you'll die today."</i></p>
+			<p>-James Dean</p>
+		</div>
+	</div>
+
+</div>
+
+<div class="row">
+	<div class="col-lg-2 col-md-2 col-sm-4">
+	<img src="/images/photo.png" width="100%"  alt="" class="alignleft border"/>
+	</div>
+	<div class="col-lg-6 col-md-7 col-sm-6">
+		<p>Hello, I am <b>Xin Zhang</b> (prounounciation &#8776 "shin chang"), a Ph.D student in computer science. I have been working with Prof.  
+		<a href="http://pag.cc.gatech.edu/naik/">Mayur Naik</a> in <a href="http://pag.gatech.edu"> Program Analysis Group</a> since I joined  <a href="http://www.gatech.edu/">Georgia Tech</a> in 2011.
+		Right before that, I received my Bachelor degree in Software Engineering from <a href="http://www.sjtu.edu.cn">Shanghai Jiao Tong University</a>. 
+		I have broad interests in topics related to  programming languages, software engineering and operation systems.	
+		For more details, please refer to <a href="/research.html">Research</a> or my <a href="CV.pdf">CV</a>.</p>
+
+	</div>
+	<div class="col-lg-4 col-md-4 col-sm-4">
+		<div class="panel panel-warning">
+			<div class="panel-heading">
+				<h3 class="panel-title">Contact Information</h3>
+			</div>
+			<div class="panel-body">
+				<b>Address</b>: 266 Ferst Drive, Atlanta, GA 30332-0765 USA <br/>
+				<b>Office</b>: 2319, Klause Advaced Computing Building</li> <br/>
+				<b>E-mail</b>: xin.zhang@gatech.edu<br/>
+				<b>Phone</b>: 706-951-7679
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="row" style="padding-left: 5px">
+<div class="page-header" class="col-lg-12">
+	<h2>News</h2>
+</div>
+<div class="col-lg-12 col-lg-offset-0">
+{% for news in site.data.news %}
+<div class="panel panel-info">
+	<div class="panel-heading">
+	{{news.date}}
+</div>
+	<div class="panel-body">
+		{{news.content}}
+	</div>
+</div>
+{% endfor %}
+</div>
+</div>

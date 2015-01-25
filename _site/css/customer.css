@@ -1,0 +1,26 @@
+body{
+	font-size: 16px;
+}
+
+.navbar-brand {
+	font-size: 20px;
+}
+
+
+img.border {
+	border: 6px solid #EEE7DF;
+}
+
+img.alignleft {
+	float: left;
+	margin-right: 25px;
+}
+
+img.alignright {
+	float: right;
+}
+
+img.aligncenter {
+	margin: 0px auto;
+}
+
