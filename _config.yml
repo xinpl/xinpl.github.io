@@ -4,5 +4,5 @@ navigation:
           url: /index.html
         - text: Research
           url: /research.html
-        - text: About me
+        - text: About Me
           url: /about.html

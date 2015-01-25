@@ -15,7 +15,7 @@ ript>
     <![endif]-->
 </head>
 
-<body style="padding-top: 20px">
+<body style="padding-top: 50px">
 
 <div class="navbar navbar-inverse navbar-fixed-top">
 	<div class="container">
@@ -44,9 +44,14 @@ ript>
 </div>
 
 <div class="container">
+<div class="row">
+	<div class="col-lg-10 col-lg-offset-1">
 
 	{{ content }}
 
+	{% include footer.html %}
+
+	</div>
 </div>
 
 </body>
