@@ -35,16 +35,16 @@ layout: default
 				(<font color="red"><b>	{{pub.award}} </b></font>)</br>
 				{% endif %}
 				{% if pub.paper != nil %}
-				[<a href="{{ pub.paper }}">PDF</a>]
+				[<a href="{{site.baseurl}}{{ pub.paper }}">PDF</a>]
 				{% endif %}
 				{% if pub.long != nil %}
-				[<a href="{{pub.long}}">Long Version</a>]	
+				[<a href="{{site.baseurl}}{{pub.long}}">Long Version</a>]	
 				{% endif %}
 				{% if pub.slides != nil %}
-				[<a href="{{pub.slides}}">Slides</a>]
+				[<a href="{{site.baseurl}}{{pub.slides}}">Slides</a>]
 				{% endif %}
 				{% if pub.poster != nil %}
-				[<a href="{{pub.poster}}">Poster</a>]
+				[<a href="{{site.baseurl}}{{pub.poster}}">Poster</a>]
 				{% endif %}
 				{% if pub.code != nil %}
 				[ {{pub.code}}]
@@ -71,10 +71,10 @@ layout: default
 			<div class="panel-body">
 				<i>{{talk.des}}</i></br>
 				{% if pub.slides != nil %}
-				[<a href="{{talk.slides}}">Slides</a>]
+				[<a href="{{site.baseurl}}{{talk.slides}}">Slides</a>]
 				{% endif %}
 				{% if talk.poster != nil %}
-				[<a href="{{talk.poster}}">Poster</a>]
+				[<a href="{{site.baseurl}}{{talk.poster}}">Poster</a>]
 				{% endif %}
 			</div>
 		</div>
