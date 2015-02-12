@@ -3,6 +3,7 @@
 #  authors:
 #  paper:
 #  long:
+#  award:
 #  slides:
 #  poster:
 #  code:
@@ -11,6 +12,7 @@
 - title: "On Abstraction Refinement for Program Analyses in Datalog"
   conference: "<b>PLDI 2014</b>: ACM SIGPLAN Conference on Programming Language Design and Implementation"
   authors: "Xin Zhang, Ravi Mangal, Radu Grigore, Mayur Naik and Hongseok Yang"
+  award: "Distinguished Paper Award"
   paper: /papers/pldi14a.pdf
   long: /papers/pldi14a-long.pdf
   slides: /slides/pldi14a.pptx

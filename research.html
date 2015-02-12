@@ -32,7 +32,7 @@ layout: default
 				{{pub.authors}}</br>
 				{{pub.conference}}</br>
 				{% if pub.award != nil %}
-				(<font color="red"><b>	{{pub.award}} </b></font>)</br>
+				<font color="red"><b>	{{pub.award}} </b></font></br>
 				{% endif %}
 				{% if pub.paper != nil %}
 				[<a href="{{site.baseurl}}{{ pub.paper }}">PDF</a>]
