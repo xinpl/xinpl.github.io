@@ -12,10 +12,13 @@
 - title: "FlexJava: Language Support for Safe and Modular Approximate Programming"
   conference: "<b>FSE 2015</b>: ACM Symposium on Foundations of Software Engineering."
   authors: "Jongse Park, Hadi Esmaeilzadeh, Xin Zhang, Mayur Naik, and Bill Harris."
+  paper: /papers/fse15b.pdf
 
 - title: "A User-Guided Approach to Program Analysis"
   conference: "<b>FSE 2015</b>: ACM Symposium on Foundations of Software Engineering."
   authors: "Ravi Mangal, Xin Zhang, Mayur Naik, and Aditya Nori."
+  award: "Distinguished Paper Award"
+  paper: /papers/fse15a.pdf
 
 - title: "On Abstraction Refinement for Program Analyses in Datalog"
   conference: "<b>PLDI 2014</b>: ACM SIGPLAN Conference on Programming Language Design and Implementation."
