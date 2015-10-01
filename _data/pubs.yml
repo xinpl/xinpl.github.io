@@ -9,6 +9,11 @@
 #  code:
 #  other:
 
+- title: "Volt: A Lazy Grounding Framework for Solving Very Large MaxSAT Instances"
+  conference: "<b>SAT 2015</b>: International Conference on Theory and Applications of Satisfiability Testing."
+  authors: "Ravi Mangal, Xin Zhang, Mayur Naik, and Aditya Nori."
+  paper: /papers/sat15.pdf
+
 - title: "FlexJava: Language Support for Safe and Modular Approximate Programming"
   conference: "<b>FSE 2015</b>: ACM Symposium on Foundations of Software Engineering."
   authors: "Jongse Park, Hadi Esmaeilzadeh, Xin Zhang, Mayur Naik, and Bill Harris."

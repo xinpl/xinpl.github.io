@@ -45,3 +45,8 @@ img.aligncenter {
 .top-header{
 	margin-top: 6px;
 }
+
+.list-special .list-group-item{
+	border-style: none;
+}
+
