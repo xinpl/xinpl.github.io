@@ -4,7 +4,9 @@ navigation:
           url: /index.html
         - text: Research
           url: /research.html
+        - text: Awards
+          url: /awards.html
         - text: About Me
           url: /about.html
 
-baseurl: "http://www.cc.gatech.edu/~xzhang36/"
+baseurl: "http://www.cc.gatech.edu/~xzhang36"

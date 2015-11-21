@@ -1,3 +1,12 @@
+- date: Nov 21, 2015
+content: "I will serve on the program committee for SPLASH 2016 posters, pease consider to <a href='http://2016.splashcon.org/track/splash-2016-posters'>submit</a>."
+
+- date: Nov 21, 2015
+  content: "New paper at AAAI'16."
+
+- date: Oct 5, 2015
+  content: "New paper at POPL'16."
+
 - date: Sep 3, 2015
   content: "Our paper <b>A User-Guided Approach to Program Analysis</b> won the <font color=\"red\">Distinguished Paper Award<b></b></font> at FSE'15!"
 
@@ -10,9 +19,9 @@
 - date: June 11, 2014
   content: "Our paper <b>On Abstraction Refinement for Program Analyses in Datalog</b> won the <font color=\"red\">Distinguished Paper Award<b></b></font> at PLDI'14!"
  
-- date: June 10, 2014
-  content: "I presented our paper <b>On Abstraction Refinement for Program Analyses in Datalog</b>  at PLDI'14, Edinburgh UK."	
-
-- date: March 16, 2014
-  content: "I presented our proposal <b>Architectures and Systems for Mobile-Cloud Computing: A Workload-Driven Perspective</b> as one of the <a href=\"https://www.qualcomm.com/invention/research/university-relations/innovation-fellowship\">Qualcomm Innovcation Fellowship</a> finalists."
-
+#- date: June 10, 2014
+#  content: "I presented our paper <b>On Abstraction Refinement for Program Analyses in Datalog</b>  at PLDI'14, Edinburgh UK."	
+#
+#- date: March 16, 2014
+#  content: "I presented our proposal <b>Architectures and Systems for Mobile-Cloud Computing: A Workload-Driven Perspective</b> as one of the <a href=\"https://www.qualcomm.com/invention/research/university-relations/innovation-fellowship\">Qualcomm Innovcation Fellowship</a> finalists."
+#

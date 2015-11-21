@@ -9,9 +9,17 @@
 #  code:
 #  other:
 
+- title: "Scaling Relational Inference Using Proofs and Refutations"
+  conference: "<b>AAAI 2016</b>: Conference on Artificial Intelligence. (<i>To Appear</i>)"
+  authors: "Ravi Mangal, Xin Zhang, Aditya Nori, and Mayur Naik."
+
+- title: "Query-Guided Maximum Satisfiability"
+  conference: "<b>POPL 2016</b>: ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages. (<i>To Appear</i>)"
+  authors: "Xin Zhang, Ravi Mangal, Aditya Nori, and Mayur Naik."
+
 - title: "Volt: A Lazy Grounding Framework for Solving Very Large MaxSAT Instances"
   conference: "<b>SAT 2015</b>: International Conference on Theory and Applications of Satisfiability Testing."
-  authors: "Ravi Mangal, Xin Zhang, Mayur Naik, and Aditya Nori."
+  authors: "Ravi Mangal, Xin Zhang, Aditya Nori, and Mayur Naik."
   paper: /papers/sat15.pdf
 
 - title: "FlexJava: Language Support for Safe and Modular Approximate Programming"
@@ -21,7 +29,7 @@
 
 - title: "A User-Guided Approach to Program Analysis"
   conference: "<b>FSE 2015</b>: ACM Symposium on Foundations of Software Engineering."
-  authors: "Ravi Mangal, Xin Zhang, Mayur Naik, and Aditya Nori."
+  authors: "Ravi Mangal, Xin Zhang, Aditya Nori, and Mayur Naik."
   award: "Distinguished Paper Award"
   paper: /papers/fse15a.pdf
 
