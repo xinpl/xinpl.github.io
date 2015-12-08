@@ -1,0 +1,48 @@
+---
+title: Xin Zhang's Homepage
+layout: default
+---
+
+<p>The implementation of our PLDI'14 paper is available at the following two folders of <a href="https://bitbucket.org/pag-lab/jchord">JChord</a>:</p>
+
+<ul>
+	<li><a href="https://bitbucket.org/pag-lab/jchord/src/ec123fc7b19e5dbb66cfce6495edad8a7a251459/main/src/chord/analyses/provenance/?at=master">main/src/chord/analyses/provenance</a></li>
+	<li><a href="https://bitbucket.org/pag-lab/jchord/src/ec123fc7b19e5dbb66cfce6495edad8a7a251459/main/src/chord/project/analyses/?at=master">main/src/chord/project/analyses/provenance</a></li>
+</ul>
+
+<p> We assume the reader has a Unix-like environment. To run the framework, please follow the instructions below: </p>
+
+<p><b>1. Set up JChord and benchmarks.</b></p>
+
+<p>The source code of JChord is available at <a href="https://bitbucket.org/pag-lab/jchord"> https://bitbucket.org/pag-lab/jchord</a>.
+Its documents are available at <a href="http://pag-www.gtisc.gatech.edu/chord/user_guide/index.html">http://pag-www.gtisc.gatech.edu/chord/user_guide/index.html</a>.
+Please follow the instructions to set JChord up.
+The benchmarks (pjbench) are available at <a href="https://bitbucket.org/pag-lab/pjbench">https://bitbucket.org/pag-lab/pjbench</a>. 
+Please complile the benchmark which you want to run the analysis on.
+To do that, run <b>ant</b> under the benchmark folder.
+To compile the benchmarks, you need <a href="http://ant.apache.org">ant</a> and at least <a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html">JDK</a> 1.5.
+</p>
+
+<p> <b> 2. Set up environment variables.</b></p>
+<p>We will use a Perl script to run the analysis. To do that, we need to set up the following environment variables:</p>
+<ul>
+	<li><b>CHORD_MAIN</b>: main folder of the local JChord copy.</li>
+	<li><b>PJBENCH</b>: root foler of the local pjbench folder. </li>
+	<li><b>PAG_BENCH</b>: root foler of the local pjbench folder. </li>
+</ul>
+
+<p><b>3. Run the analysis.</b></p>
+We will use the <a href="https://bitbucket.org/pag-lab/jchord/src/ec123fc7b19e5dbb66cfce6495edad8a7a251459/main/runner.pl?at=master&fileviewer=file-view-default">runner.pl</a> under the main folder of JChord to execute the analyses.
+<p>To run the pointer analysis:</p>
+<p><i>./runner.pl -mode=serial -program=&#60;benchmark name&#62; -analysis=provenance-kobj -D chord.provenance.client=&#60;polysite&#47;downcast&#62;</i></p>
+<p>Polysite is the monomorphic callsite client we included in the PLDI’14 paper while downcast is a downcast safety checker which we didn't included in the paper.
+</p>
+<p>To run the typestate analysis:</p>
+<p><i>./runner.pl -mode=serial -program=&#60;benchmark name&#62; -analysis=provenance-typestate</i></p>
+
+<p>The output log file is &#60;benchmark path&#62;&#47;chord_output_&#60;analysis name&#62;&#47;log.txt</p>
+
+<br/>
+<p>If you still have question about how to run the analysis after reading the document, feel free to <a href="mailto:xinzhangsjtu1989@gmail.com">contact</a> me. I will get back to you ASAP and update
+this page if needed.<p>
+.</p>

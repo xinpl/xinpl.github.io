@@ -52,6 +52,9 @@ layout: default
 				{% if pub.other != nil %}
 				{{pub.other}}
 				{% endif %}
+				{% if pub.howto != nil %}
+				[<a href="{{site.baseurl}}{{pub.howto}}">How to Run</a>]
+				{% endif %}
 			</div>
 		</div>
 		{% endfor %}

@@ -42,6 +42,7 @@
   slides: /slides/pldi14a.pptx
   poster: /posters/pldi14a.pdf
   code: "Implementation Available in <a href=\"https://code.google.com/p/jchord/\">JChord</a>"
+  howto: /pages/pldi14a-howto.html
 
 - title: "Hybrid Top-down and Bottom-up Interprocedural Analysis"
   conference: "<b>PLDI 2014</b>: ACM SIGPLAN Conference on Programming Language Design and Implementation."
