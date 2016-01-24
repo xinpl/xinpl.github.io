@@ -15,7 +15,7 @@
   paper: /papers/aaai16.pdf
 
 - title: "Query-Guided Maximum Satisfiability"
-  conference: "<b>POPL 2016</b>: ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages. (<i>To Appear</i>)"
+  conference: "<b>POPL 2016</b>: ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages."
   authors: "Xin Zhang, Ravi Mangal, Aditya Nori, and Mayur Naik."
   paper: /papers/popl16.pdf
   slides: /slides/popl16.pptx
