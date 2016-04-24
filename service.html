@@ -1,0 +1,40 @@
+---
+title: Xin Zhang's Homepage
+layout: default
+---
+
+
+<div class="row">
+
+	<div class="page-header top-header" class="col-lg-12" >
+		<h2>Professional</h2>
+	</div>
+
+	<div class="col-lg-12">
+		 <ul class="list-group list-special">
+		{% for item in site.data.pcs %}
+		<li class="list-group-item">
+					{{item.pc}}
+		</li>
+		{% endfor%}
+		</ul>
+	</div>
+</div>
+
+<div class="row">
+
+	<div class="page-header top-header" class="col-lg-12" >
+		<h2>Teaching</h2>
+	</div>
+
+	<div class="col-lg-12">
+		 <ul class="list-group list-special">
+		{% for item in site.data.tas %}
+		<li class="list-group-item">
+					{{item.ta}}
+		</li>
+		{% endfor%}
+		</ul>
+	</div>
+</div>
+
