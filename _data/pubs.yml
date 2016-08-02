@@ -9,8 +9,16 @@
 #  code:
 #  other:
 
+- title: "Accelerating Program Analyses by Cross-Program Training" 
+  conference: "<b>OOPSLA 2016</b>: ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications. (To Appear)"
+  authors: "Sulekha Kulkarni, Ravi Mangal, Xin Zhang, Mayur Naik." 
+
+- title: "On Incremental Core-Guided MaxSAT Solving"
+  conference: "<b>CP 2016</b>: International Conference on Principles and Practice of Constraint Programming. (To Appear)"
+  authors: "Xujie Si, Xin Zhang, Vasco Manquinho, Mikolas Janota, Alexey Ignatiev, Mayur Naik." 
+
 - title: "Scaling Relational Inference Using Proofs and Refutations"
-  conference: "<b>AAAI 2016</b>: Conference on Artificial Intelligence. (<i>To Appear</i>)"
+  conference: "<b>AAAI 2016</b>: Conference on Artificial Intelligence."
   authors: "Ravi Mangal, Xin Zhang, Aditya Kamath, Aditya Nori, and Mayur Naik."
   paper: /papers/aaai16.pdf
 
