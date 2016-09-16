@@ -44,7 +44,7 @@
   authors: "Ravi Mangal, Xin Zhang, Aditya Nori, and Mayur Naik."
   award: "Distinguished Paper Award"
   paper: /papers/fse15a.pdf
-  slides: /slides/fse15a.pdf
+  slides: /slides/fse15a.pptx
 
 - title: "On Abstraction Refinement for Program Analyses in Datalog"
   conference: "<b>PLDI 2014</b>: ACM SIGPLAN Conference on Programming Language Design and Implementation."
