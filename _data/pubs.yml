@@ -14,8 +14,9 @@
   authors: "Sulekha Kulkarni, Ravi Mangal, Xin Zhang, Mayur Naik." 
 
 - title: "On Incremental Core-Guided MaxSAT Solving"
-  conference: "<b>CP 2016</b>: International Conference on Principles and Practice of Constraint Programming. (To Appear)"
+  conference: "<b>CP 2016</b>: International Conference on Principles and Practice of Constraint Programming."
   authors: "Xujie Si, Xin Zhang, Vasco Manquinho, Mikolas Janota, Alexey Ignatiev, Mayur Naik." 
+  paper: papers/cp16.pdf
 
 - title: "Scaling Relational Inference Using Proofs and Refutations"
   conference: "<b>AAAI 2016</b>: Conference on Artificial Intelligence."
