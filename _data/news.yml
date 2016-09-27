@@ -1,17 +1,17 @@
 - date: August 2, 2016
-  content: "New paper at OOPSLA'16."
+  content: "New paper at OOPSLA'16 on accelerating program analyses by reusing their results on shared library code."
 
 - date: August 2, 2016
-  content: "New paper at CP'16."
+  content: "New paper at CP'16 on incremental MaxSAT solving."
 
 - date: Nov 21, 2015
   content: "I will serve on the program committee for SPLASH 2016 Posters, please consider to <a href=\"http://2016.splashcon.org/track/splash-2016-posters\">submit</a>."
 
 - date: Nov 21, 2015
-  content: "New paper at AAAI'16."
+  content: "New paper at AAAI'16 on solving statistical relational inference."
 
 - date: Oct 5, 2015
-  content: "New paper at POPL'16."
+  content: "New paper at POPL'16 on query-guided maximum satisfiability."
 
 - date: Sep 3, 2015
   content: "Our paper <b>A User-Guided Approach to Program Analysis</b> won the <font color=\"red\">Distinguished Paper Award<b></b></font> at FSE'15!"
