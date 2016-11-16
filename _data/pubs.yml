@@ -10,13 +10,15 @@
 #  other:
 
 - title: "Accelerating Program Analyses by Cross-Program Training" 
-  conference: "<b>OOPSLA 2016</b>: ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications. (To Appear)"
+  conference: "<b>OOPSLA 2016</b>: ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications."
   authors: "Sulekha Kulkarni, Ravi Mangal, Xin Zhang, Mayur Naik." 
+  paper: /papers/oopsla16.pdf
+  slides: /slides/oopsla16.pptx 
 
 - title: "On Incremental Core-Guided MaxSAT Solving"
   conference: "<b>CP 2016</b>: International Conference on Principles and Practice of Constraint Programming."
   authors: "Xujie Si, Xin Zhang, Vasco Manquinho, Mikolas Janota, Alexey Ignatiev, Mayur Naik." 
-  paper: papers/cp16.pdf
+  paper: /papers/cp16.pdf
 
 - title: "Scaling Relational Inference Using Proofs and Refutations"
   conference: "<b>AAAI 2016</b>: Conference on Artificial Intelligence."
