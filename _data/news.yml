@@ -1,3 +1,6 @@
+- date: August 19, 2016
+  content: "I will serve on the external review committee of <a href=\"http://pldi17.sigplan.org\">PLDI'17</a>."
+
 - date: August 2, 2016
   content: "New paper at OOPSLA'16 on accelerating program analyses by reusing their results on shared library code."
 
@@ -22,8 +25,8 @@
 - date: February 10, 2015
   content: "I have been selected as a winner of the 2015-2016 <b>Facebook Fellowship</b>. Thank you, Facebook!"
 
-- date: June 11, 2014
-  content: "Our paper <b>On Abstraction Refinement for Program Analyses in Datalog</b> won the <font color=\"red\">Distinguished Paper Award<b></b></font> at PLDI'14!"
+#- date: June 11, 2014
+#  content: "Our paper <b>On Abstraction Refinement for Program Analyses in Datalog</b> won the <font color=\"red\">Distinguished Paper Award<b></b></font> at PLDI'14!"
  
 #- date: June 10, 2014
 #  content: "I presented our paper <b>On Abstraction Refinement for Program Analyses in Datalog</b>  at PLDI'14, Edinburgh UK."	
