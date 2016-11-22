@@ -48,7 +48,7 @@ layout: default
 		 <ul class="list-group list-special">
 		{% for item in site.data.students %}
 		<li class="list-group-item">
-					{{item.st}}
+		{{item.name}}, {{item.pos}}. <a href="{{site.baseurl}}{{item.link}}">{{item.paper}}</a>
 		</li>
 		{% endfor%}
 		</ul>

@@ -1,5 +1,14 @@
-- st: "<a href=\"http://www.cc.gatech.edu/~skulkarn/\">Sulekha Kulkarni</a>, PhD student. <a href=\"/papers/oopsla16.pdf\">Accelerating Program Analyses by Cross-Program Training</a>."  
+- name: "<a href=\"http://www.cc.gatech.edu/~skulkarn/\">Sulekha Kulkarni</a>"
+  pos: "PhD student"
+  paper: "Accelerating Program Analyses by Cross-Program Training"
+  link: "/papers/oopsla16.pdf"  
 
-- st: "<a href=\"http://www.cc.gatech.edu/~xsi7/\">Xujie Si</a>, PhD student. <a href=\"/papers/cp16.pdf\">On Incremental Core-Guided MaxSAT Solving</a>."  
+- name: "<a href=\"http://www.cc.gatech.edu/~xsi7/\">Xujie Si</a>"
+  pos: "PhD student"
+  paper: "On Incremental Core-Guided MaxSAT Solving"
+  link: "/papers/cp16.pdf"  
 
-- st: "<a href=\"http://www.cc.gatech.edu/~akamath/\">Aditya Kamath</a>, master student. <a href=\"/papers/aaai16.pdf\">Scaling Relational Inference Using Proofs and Refutations</a>."
+- name: "<a href=\"http://www.cc.gatech.edu/~akamath/\">Aditya Kamath</a>"
+  pos: "master student"
+  paper: "On Incremental Core-Guided MaxSAT Solving"
+  link: "/papers/aaai16.pdf"  
