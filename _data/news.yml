@@ -1,14 +1,24 @@
-- date: May 2, 2017
-  content: "Talk at <a href=\"https://www.cs.washington.edu\">UW</a>."
+- date: Feb 19, 2017
+  content: "<b>Upcoming talks</b>:
+          <ul>
+          <li>February 28 at <a href=\"https://www.cs.rice.edu/EventsList.aspx?EventRecord=32376\">Rice</a>.</li>
+          <li>March 8 at <a href=\"http://cse.ucsd.edu/about/adaptive-program-reasoning-online-learning\">UCSD</a>.</li>
+          <li>March 21 at <a href=\"https://www.cs.ucsb.edu\">UCSB</a>.</li>
+          <li>May 2 at <a href=\"https://www.cs.washington.edu\">UW</a>.</li>
+          </ul>
+          "
 
-- date: March 21, 2017
-  content: "Talk at <a href=\"https://www.cs.ucsb.edu\">UCSB</a>."
-
-- date: March 8, 2017
-  content: "Talk at <a href=\"http://cse.ucsd.edu/about/adaptive-program-reasoning-online-learning\">UCSD</a>." 
-
-- date: February 28, 2017
-  content: "Talk at <a href=\"https://www.cs.rice.edu/EventsList.aspx?EventRecord=32376\">Rice</a>."
+#- date: May 2, 2017
+#  content: "Talk at <a href=\"https://www.cs.washington.edu\">UW</a>."
+#
+#- date: March 21, 2017
+#  content: "Talk at <a href=\"https://www.cs.ucsb.edu\">UCSB</a>."
+#
+#- date: March 8, 2017
+#  content: "Talk at <a href=\"http://cse.ucsd.edu/about/adaptive-program-reasoning-online-learning\">UCSD</a>." 
+#
+#- date: February 28, 2017
+#  content: "Talk at <a href=\"https://www.cs.rice.edu/EventsList.aspx?EventRecord=32376\">Rice</a>."
 
 - date: August 19, 2016
   content: "I will serve on the external review committee of <a href=\"http://pldi17.sigplan.org\">PLDI'17</a>."
