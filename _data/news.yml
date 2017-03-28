@@ -1,4 +1,4 @@
-- date: Feb 19, 2017
+- date: March 28, 2017
   content: "<b>Upcoming talks</b>:
           <ul>
           <li>February 28 at <a href=\"https://www.cs.rice.edu/EventsList.aspx?EventRecord=32376\">Rice</a>.</li>
@@ -8,6 +8,9 @@
           <li>May 2 at <a href=\"https://www.cs.washington.edu\">UW</a>.</li>
           </ul>
           "
+
+- date: March 28, 2017
+  content: "Outstanding Graduate Research Award from College of Computing, Georgia Tech."
 
 #- date: May 2, 2017
 #  content: "Talk at <a href=\"https://www.cs.washington.edu\">UW</a>."
