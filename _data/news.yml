@@ -1,13 +1,17 @@
-- date: April 12, 2017
-  content: "<b>Upcoming talks</b>:
-          <ul>
-          <li>February 28 at <a href=\"https://www.cs.rice.edu/EventsList.aspx?EventRecord=32376\">Rice</a>.</li>
-          <li>March 8 at <a href=\"http://cse.ucsd.edu/about/adaptive-program-reasoning-online-learning\">UCSD</a>.</li>
-          <li>March 21 at <a href=\"https://www.cs.ucsb.edu\">UCSB</a>.</li>
-          <li>April 6 at <a href=\"https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/\">MSR Redmond</a>.</li>
-          <li>May 2 at <a href=\"https://www.cs.washington.edu\">UW</a>.</li>
-          </ul>
-          "
+#- date: April 12, 2017
+#  content: "<b>Upcoming talks</b>:
+#          <ul>
+#          <li>February 28 at <a href=\"https://www.cs.rice.edu/EventsList.aspx?EventRecord=32376\">Rice</a>.</li>
+#          <li>March 8 at <a href=\"http://cse.ucsd.edu/about/adaptive-program-reasoning-online-learning\">UCSD</a>.</li>
+#          <li>March 21 at <a href=\"https://www.cs.ucsb.edu\">UCSB</a>.</li>
+#          <li>April 6 at <a href=\"https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/\">MSR Redmond</a>.</li>
+#          <li>May 2 at <a href=\"https://www.cs.washington.edu\">UW</a>.</li>
+#          </ul>
+#          "
+
+- date: May 6, 2017
+content: "Invited tutorial about our work on Maximum Satisfiability in Software Analysis at <a href=\"http://cavconference.org/2017/invited-tutorial-speakers/\">CAV'17</a>."
+
 - date: April 25, 2017
   content: "New workshop paper at <a href=\"https://sites.google.com/view/mapl2017/home\">MAPL</a> on combining logical and probabilistic reasoning in program analysis."
 
