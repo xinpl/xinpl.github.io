@@ -1,0 +1,20 @@
+#- title: 
+#  conference: 
+#  authors:
+#  paper:
+#  long:
+#  award:
+#  slides:
+#  poster:
+#  code:
+#  other:
+
+- title: "Combining the Logical and the Probabilistic in Program Analysis"
+  conference: "<b>MAPL 2017</b>: ACM SIGPLAN Workshop on Machine Learning and Programming Languages."
+  authors: "Xin Zhang, Xujie Si, and Mayur Naik"
+  paper: /papers/mapl17.pdf
+
+- title: "Expectation-Oriented Framework for Automating Approximate Programming" 
+  conference: "<b>WACAS 2014</b>: Workshop on Approximate Computing Across the System Stack."
+  authors: "Jongse Park, Kangqi Ni, Xin Zhang, Hadi Esmaeilzadeh, and Mayur Naik" 
+  paper: /papers/wacas14.pdf

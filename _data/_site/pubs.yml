@@ -1,0 +1,49 @@
+#- title: 
+#  conference: 
+#  authors:
+#  paper:
+#  long:
+#  award:
+#  slides:
+#  poster:
+#  code:
+#  other:
+
+- title: "On Abstraction Refinement for Program Analyses in Datalog"
+  conference: "<b>PLDI 2014</b>: ACM SIGPLAN Conference on Programming Language Design and Implementation"
+  authors: "Xin Zhang, Ravi Mangal, Radu Grigore, Mayur Naik and Hongseok Yang"
+  award: "Distinguished Paper Award"
+  paper: /papers/pldi14a.pdf
+  long: /papers/pldi14a-long.pdf
+  slides: /slides/pldi14a.pptx
+  poster: /posters/pldi14a.pdf
+  code: "Implementation Available in <a href=\"https://code.google.com/p/jchord/\">JChord</a>"
+
+- title: "Hybrid Top-down and Bottom-up Interprocedural Analysis"
+  conference: "<b>PLDI 2014</b>: ACM SIGPLAN Conference on Programming Language Design and Implementation"
+  authors: "Xin Zhang, Ravi Mangal, Mayur Naik and Hongseok Yang"
+  paper: /papers/pldi14b.pdf
+  long: /papers/pldi14b-long.pdf
+  slides: /slides/pldi14b.pptx
+  code: "Implementation Available in <a href=\"https://code.google.com/p/jchord/\">JChord</a>"
+
+- title: "ExpAX: A Framework for Automating Approximate Programming"
+  conference: "Technical Report"
+  authors: "Jongse Park, Xin Zhang, Kangqi Ni, Hadi Esmaeilzadeh and Mayur Naik"
+  paper: /papers/expax.pdf
+
+- title: "Finding Optimum Abstractions in Parametric Dataflow Analysis"
+  conference: "<b>PLDI 2013</b>: ACM SIGPLAN Conference on Programming Language Design and Implementation"
+  authors: "Xin Zhang, Mayur Naik and Hongseok Yang"
+  paper: /papers/pldi13.pdf
+  long: /papers/pldi13-long.pdf
+  slides: /slides/pldi13.pptx
+  code: "Implementation Available in <a href=\"https://code.google.com/p/jchord/\">JChord</a>"
+  other: "[<a href=\"http://pag-www.gtisc.gatech.edu/psa/\">Data</a>]"
+
+- title: "Automatic Parameter Recommendation for Practical API Usage"
+  conference: "<b>ICSE 2012</b>: International Conference on Software Engineering"
+  authors: "Cheng Zhang, Juyuan Yang, Yi Zhang, Jing Fan, Xin Zhang, Jianjun Zhao and Peizhao Ou"
+  paper: /papers/icse12.pdf
+
+

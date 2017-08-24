@@ -39,15 +39,15 @@
 #- date: February 28, 2017
 #  content: "Talk at <a href=\"https://www.cs.rice.edu/EventsList.aspx?EventRecord=32376\">Rice</a>."
 
-- date: August 19, 2016
-  content: "I will serve on the external review committee of <a href=\"http://pldi17.sigplan.org\">PLDI'17</a>."
-
-- date: August 2, 2016
-  content: "New paper at OOPSLA'16 on accelerating program analyses by reusing their results on shared library code."
-
-- date: August 2, 2016
-  content: "New paper at CP'16 on incremental MaxSAT solving."
-
+#- date: August 19, 2016
+#  content: "I will serve on the external review committee of <a href=\"http://pldi17.sigplan.org\">PLDI'17</a>."
+#
+#- date: August 2, 2016
+#  content: "New paper at OOPSLA'16 on accelerating program analyses by reusing their results on shared library code."
+#
+#- date: August 2, 2016
+#  content: "New paper at CP'16 on incremental MaxSAT solving."
+#
 #- date: Nov 21, 2015
 #  content: "I will serve on the program committee for SPLASH 2016 Posters, please consider <a href=\"http://2016.splashcon.org/track/splash-2016-posters\">submitting</a>."
 #
@@ -60,10 +60,10 @@
 #- date: Sep 3, 2015
 #  content: "Our paper <b>A User-Guided Approach to Program Analysis</b> won the <font color=\"red\">Distinguished Paper Award<b></b></font> at FSE'15!"
 #
-- date: May 26, 2015
-  content: "Two papers accepted by FSE'15."
-
-- date: February 10, 2015
+#- date: May 26, 2015
+#  content: "Two papers accepted by FSE'15."
+#
+#- date: February 10, 2015
   content: "I have been selected as a winner of the 2015-2016 <b>Facebook Fellowship</b>. Thank you, Facebook!"
 
 #- date: June 11, 2014

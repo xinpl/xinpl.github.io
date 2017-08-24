@@ -18,10 +18,10 @@
   authors: "Xujie Si, Xin Zhang, Radu Grigore, and Mayur Naik"
   paper: /papers/cav17.pdf
 
-- title: "Combining the Logical and the Probabilistic in Program Analysis"
-  conference: "<b>MAPL 2017</b>: The First ACM SIGPLAN Workshop on Machine Learning and Programming Languages."
-  authors: "Xin Zhang, Xujie Si, and Mayur Naik"
-  paper: /papers/mapl17.pdf
+#- title: "Combining the Logical and the Probabilistic in Program Analysis"
+#  conference: "<b>MAPL 2017</b>: The First ACM SIGPLAN Workshop on Machine Learning and Programming Languages."
+#  authors: "Xin Zhang, Xujie Si, and Mayur Naik"
+#  paper: /papers/mapl17.pdf
 
 - title: "Accelerating Program Analyses by Cross-Program Training" 
   conference: "<b>OOPSLA 2016</b>: ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications."
