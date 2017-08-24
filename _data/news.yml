@@ -9,6 +9,9 @@
 #          </ul>
 #          "
 
+- date: August 11, 2017
+  content: "New paper at <a href=\"http://2017.splashcon.org/track/splash-2017-OOPSLA\">OOPSLA'17</a> on interactively resolving static analysis reports."
+
 - date: May 6, 2017
   content: "Invited tutorial about our work on Maximum Satisfiability in Software Analysis at <a href=\"http://cavconference.org/2017/invited-tutorial-speakers/\">CAV'17</a>."
 
@@ -42,18 +45,18 @@
 - date: August 2, 2016
   content: "New paper at CP'16 on incremental MaxSAT solving."
 
-- date: Nov 21, 2015
-  content: "I will serve on the program committee for SPLASH 2016 Posters, please consider <a href=\"http://2016.splashcon.org/track/splash-2016-posters\">submitting</a>."
-
-- date: Nov 21, 2015
-  content: "New paper at AAAI'16 on statistical relational inference."
-
-- date: Oct 5, 2015
-  content: "New paper at POPL'16 on query-guided maximum satisfiability."
-
-- date: Sep 3, 2015
-  content: "Our paper <b>A User-Guided Approach to Program Analysis</b> won the <font color=\"red\">Distinguished Paper Award<b></b></font> at FSE'15!"
-
+#- date: Nov 21, 2015
+#  content: "I will serve on the program committee for SPLASH 2016 Posters, please consider <a href=\"http://2016.splashcon.org/track/splash-2016-posters\">submitting</a>."
+#
+#- date: Nov 21, 2015
+#  content: "New paper at AAAI'16 on statistical relational inference."
+#
+#- date: Oct 5, 2015
+#  content: "New paper at POPL'16 on query-guided maximum satisfiability."
+#
+#- date: Sep 3, 2015
+#  content: "Our paper <b>A User-Guided Approach to Program Analysis</b> won the <font color=\"red\">Distinguished Paper Award<b></b></font> at FSE'15!"
+#
 - date: May 26, 2015
   content: "Two papers accepted by FSE'15."
 
