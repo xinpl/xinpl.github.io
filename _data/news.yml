@@ -10,6 +10,9 @@
 #          "
 
 - date: August 11, 2017
+  content: "I will serve on the program committee of <a href=\"http://pldi18.sigplan.org\">PLDI'18</a>."
+
+- date: August 11, 2017
   content: "New paper at <a href=\"http://2017.splashcon.org/track/splash-2017-OOPSLA\">OOPSLA'17</a> on interactively resolving static analysis reports."
 
 - date: May 6, 2017
