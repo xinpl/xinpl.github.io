@@ -1,0 +1,14 @@
+# this goes inside _config.yml. Change as required
+navigation:
+        - text: Home
+          url: /index.html
+        - text: Research
+          url: /research.html
+        - text: Service
+          url: /service.html
+        - text: Awards
+          url: /awards.html
+        - text: About Me
+          url: /about.html
+
+baseurl: "http://people.csail.mit.edu/xzhang/"
