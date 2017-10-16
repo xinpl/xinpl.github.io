@@ -12,6 +12,7 @@
 - title: "Effective Interactive Resolution of Static Analysis Alarms"
   conference: "<b>OOPSLA 2017</b>: ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications. (To Appear)"
   authors: "Xin Zhang, Radu Grigore, Xujie Si, and Mayur Naik"
+  paper: /papers/oopsla17.pdf
 
 - title: "Maximum Satisfiability in Software Analysis: Applications and Techniques"
   conference: "<b>CAV 2017</b>: International Conference on Computer Aided Verification."
