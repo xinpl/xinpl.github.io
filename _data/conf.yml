@@ -9,13 +9,18 @@
 #  code:
 #  other:
 
+- title: "Maximum Satisfiability in Software Analysis: Applications and Techniques"
+  conference: "<b>VMCAI 2018</b>: International Conference on Computer Aided Verification. (Invited Tutorial)"
+  authors: "Mayur Naik, Xujie Si, Xin Zhang, and Radu Grigore"
+  paper: /papers/vmcai18.pdf
+
 - title: "Effective Interactive Resolution of Static Analysis Alarms"
-  conference: "<b>OOPSLA 2017</b>: ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications. (To Appear)"
+  conference: "<b>OOPSLA 2017</b>: ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications."
   authors: "Xin Zhang, Radu Grigore, Xujie Si, and Mayur Naik"
   paper: /papers/oopsla17.pdf
 
 - title: "Maximum Satisfiability in Software Analysis: Applications and Techniques"
-  conference: "<b>CAV 2017</b>: International Conference on Computer Aided Verification."
+  conference: "<b>CAV 2017</b>: International Conference on Computer Aided Verification. (Invited Tutorial)"
   authors: "Xujie Si, Xin Zhang, Radu Grigore, and Mayur Naik"
   paper: /papers/cav17.pdf
 
