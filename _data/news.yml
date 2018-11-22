@@ -9,8 +9,14 @@
 #          </ul>
 #          "
 
+- date: Sep 4, 2018
+  content: "New <a href=\"https://arxiv.org/abs/1802.07384\">paper</a> on providing actional explanations to judgments produced by a neural network at <a href=\"https://nips.cc/\">NIPS'18</a>."
+
+- date: Aug 8, 2018
+  content: "New poster about conditioning on distributional properties in probablistic programming at <a href=\"https://probprog.cc/\">PROBPROG'18</a>."
+
 - date: Dec 2, 2017
-  content: "Invited tutorial about our work on Maximum Satisfiability in Software Analysis at <a href=\"http://cavconference.org/2017/invited-tutorial-speakers/\">CAV'17</a> and <a href=\"https://popl18.sigplan.org/track/VMCAI-2018\">VMCAI'18</a>"
+  content: "Invited tutorial about our work on Maximum Satisfiability in Software Analysis at <a href=\"http://cavconference.org/2017/invited-tutorial-speakers/\">CAV'17</a> and <a href=\"https://popl18.sigplan.org/track/VMCAI-2018\">VMCAI'18</a>."
 
 - date: August 11, 2017
   content: "I will serve on the program committee of <a href=\"http://pldi18.sigplan.org\">PLDI'18</a>."

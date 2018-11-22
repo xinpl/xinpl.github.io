@@ -9,6 +9,16 @@
 #  code:
 #  other:
 
+- title: "Interpreting Neural Network Judgments via Minimal, Stable, and Symbolic Corrections"
+  conference: "<b>NIPS 2018</b>: Conference on Neural Information Processing Systems (<i>To Appear</i>)" 
+  authors: "Xin Zhang, Armando Solar-Lezama, Rishabh Singh"
+  paper: /papers/nips18.pdf
+  poster: /posters/nips18.pdf
+
+- title: "The Random Conditional Distribution for Higher-Order Probabilistic Inference"
+  conference: "<b>PROBPROG 2018</b>: International Conference on Probabilistic Programming (<i>Poster</i>)"
+  authors: "Zenna Tavares, Xin Zhang, Javier Burroni, Edgar Minasyan, Rajesh Ranganath, Armando Solar-Lezama"
+
 - title: "Maximum Satisfiability in Software Analysis: Applications and Techniques"
   conference: "<b>VMCAI 2018</b>: International Conference on Verification, Model Checking, and Abstract Interpretation. (<i>Invited Tutorial</i>)"
   authors: "Mayur Naik, Xujie Si, Xin Zhang, and Radu Grigore"
