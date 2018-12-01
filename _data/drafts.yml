@@ -1,0 +1,18 @@
+#- title: 
+#  conference: 
+#  authors:
+#  paper:
+#  long:
+#  award:
+#  slides:
+#  poster:
+#  code:
+#  other:
+
+- title: "Verifying Fairness Properties via Concentration"
+  conference: "PLDI 2019" 
+  authors: "Osbert Bastani, Xin Zhang, Armando Solar-Lezama"
+
+- title: "The Random Conditional Distribution for Higher-Order Probabilistic Inference"
+  conference: "PLDI 2019"
+  authors: "Zenna Tavares, Xin Zhang, Javier Burroni, Edgar Minasyan, Rajesh Ranganath, Armando Solar-Lezama"

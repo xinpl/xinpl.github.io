@@ -22,6 +22,47 @@ layout: default
 
 <div class="row">
 	<div class="page-header" class="col-lg-12">
+		<h2>Ongoing Works</h2>
+	</div>
+	<div class="col-lg-12">
+		{% for draft in site.data.drafts %}
+		<div class="panel panel-success">
+			<div class="panel-heading">
+				{{ draft.title }}	
+			</div>
+			<div class="panel-body">
+				{{draft.authors}}</br>
+				Submitted to {{draft.conference}}</br>
+				{% if draft.paper != nil %}
+				[<a href="{{site.baseurl}}{{ draft.paper }}">PDF</a>]
+				{% endif %}
+				{% if draft.long != nil %}
+				[<a href="{{site.baseurl}}{{draft.long}}">Long Version</a>]	
+				{% endif %}
+				{% if draft.slides != nil %}
+				[<a href="{{site.baseurl}}{{draft.slides}}">Slides</a>]
+				{% endif %}
+				{% if draft.poster != nil %}
+				[<a href="{{site.baseurl}}{{draft.poster}}">Poster</a>]
+				{% endif %}
+				{% if draft.code != nil %}
+				[ {{draft.code}}]
+				{% endif %}
+				{% if draft.other != nil %}
+				{{draft.other}}
+				{% endif %}
+				{% if draft.howto != nil %}
+				[<a href="{{site.baseurl}}{{draft.howto}}">How to Run</a>]
+				{% endif %}
+			</div>
+		</div>
+		{% endfor %}
+	</div>
+</div>
+
+
+<div class="row">
+	<div class="page-header" class="col-lg-12">
 		<h2>Conference Publications</h2>
 	</div>
 	<div class="col-lg-12">
