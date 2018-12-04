@@ -14,7 +14,7 @@
   authors: "Xin Zhang, Armando Solar-Lezama, Rishabh Singh"
   paper: /papers/nips18.pdf
   poster: /posters/nips18.pdf
-  code: "https://github.com/xinpl/Polaris"
+  code: "<h href=\"https://github.com/xinpl/Polaris\">code</h>"
 
 - title: "The Random Conditional Distribution for Higher-Order Probabilistic Inference"
   conference: "<b>PROBPROG 2018</b>: International Conference on Probabilistic Programming (<i>Poster</i>)"
