@@ -28,8 +28,8 @@ layout: default
 			<div class="panel-body">
 				{{draft.authors}}</br>
 				{% if draft.arxiv != nil %}
-				[<a href="{daft.arxiv}">arxiv</a>]
-
+				[<a href="{{draft.arxiv}}">arxiv</a>]
+				{% endif %}
 				{% if draft.paper != nil %}
 				[<a href="{{site.baseurl}}{{ draft.paper }}">PDF</a>]
 				{% endif %}
