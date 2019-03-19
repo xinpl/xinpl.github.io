@@ -19,7 +19,6 @@
 - title: "The Random Conditional Distribution for Higher-Order Probabilistic Inference"
   conference: "<b>PROBPROG 2018</b>: International Conference on Probabilistic Programming (<i>Poster</i>)"
   authors: "Zenna Tavares, Xin Zhang, Javier Burroni, Edgar Minasyan, Rajesh Ranganath, Armando Solar-Lezama"
-  paper: /papers/rcdpldi.pdf
 
 - title: "Maximum Satisfiability in Software Analysis: Applications and Techniques"
   conference: "<b>VMCAI 2018</b>: International Conference on Verification, Model Checking, and Abstract Interpretation. (<i>Invited Tutorial</i>)"
