@@ -3,21 +3,21 @@ title: Xin Zhang's Homepage
 layout: default
 ---
 
-<p>The implementation of our PLDI'14 paper is available under the following two folders of <a href="https://bitbucket.org/pag-lab/jchord">JChord</a>:</p>
+<p>The implementation of our PLDI'14 paper is available under the following two folders of <a href="https://bitbucket.org/psl-lab/jchord">JChord</a>:</p>
 
 <ul>
-	<li><a href="https://bitbucket.org/pag-lab/jchord/src/ec123fc7b19e5dbb66cfce6495edad8a7a251459/main/src/chord/analyses/provenance/?at=master">main/src/chord/analyses/provenance</a></li>
-	<li><a href="https://bitbucket.org/pag-lab/jchord/src/ec123fc7b19e5dbb66cfce6495edad8a7a251459/main/src/chord/project/analyses/provenance/?at=master">main/src/chord/project/analyses/provenance</a></li>
+	<li><a href="https://bitbucket.org/psl-lab/jchord/src/ec123fc7b19e5dbb66cfce6495edad8a7a251459/main/src/chord/analyses/provenance/?at=master">main/src/chord/analyses/provenance</a></li>
+	<li><a href="https://bitbucket.org/psl-lab/jchord/src/ec123fc7b19e5dbb66cfce6495edad8a7a251459/main/src/chord/project/analyses/provenance/?at=master">main/src/chord/project/analyses/provenance</a></li>
 </ul>
 
 <p> We assume the reader has a Unix-like environment. To run the framework, please follow the instructions below: </p>
 
 <p><b>1. Set up JChord and benchmarks.</b></p>
 
-<p>The source code of JChord is available at <a href="https://bitbucket.org/pag-lab/jchord"> https://bitbucket.org/pag-lab/jchord</a>.
-Its documents are available at <a href="http://pag-www.gtisc.gatech.edu/chord/user_guide/index.html">http://pag-www.gtisc.gatech.edu/chord/user_guide/index.html</a>.
+<p>The source code of JChord is available at <a href="https://bitbucket.org/psl-lab/jchord"> https://bitbucket.org/psl-lab/jchord</a>.
+Its documents are available at <a href="https://www.seas.upenn.edu/~mhnaik/chord/user_guide/index.html">https://www.seas.upenn.edu/~mhnaik/chord/user_guide/index.html</a>.
 Please follow the instructions to set JChord up.
-The benchmarks (pjbench) are available at <a href="https://bitbucket.org/pag-lab/pjbench">https://bitbucket.org/pag-lab/pjbench</a>. 
+The benchmarks (pjbench) are available at <a href="https://bitbucket.org/psl-lab/pjbench">https://bitbucket.org/psl-lab/pjbench</a>. 
 Please complile the benchmark which you want to run the analysis on.
 To do that, run <b>ant</b> under the benchmark folder.
 To compile the benchmarks, you need <a href="http://ant.apache.org">ant</a> and at least <a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html">JDK</a> 1.5.
@@ -32,7 +32,7 @@ To compile the benchmarks, you need <a href="http://ant.apache.org">ant</a> and 
 </ul>
 
 <p><b>3. Run the analysis.</b></p>
-We will use the <a href="https://bitbucket.org/pag-lab/jchord/src/ec123fc7b19e5dbb66cfce6495edad8a7a251459/main/runner.pl?at=master&fileviewer=file-view-default">runner.pl</a> under the main folder of JChord to execute the analyses.
+We will use the <a href="https://bitbucket.org/psl-lab/jchord/src/ec123fc7b19e5dbb66cfce6495edad8a7a251459/main/runner.pl?at=master&fileviewer=file-view-default">runner.pl</a> under the main folder of JChord to execute the analyses.
 <p>To run the pointer analysis:</p>
 <p><i>./runner.pl -mode=serial -program=&#60;benchmark name&#62; -analysis=provenance-kobj -D chord.provenance.client=&#60;polysite&#47;downcast&#62;</i></p>
 <p>Polysite is the monomorphic callsite client we included in the PLDI’14 paper while downcast is a downcast safety checker which we didn't included in the paper.
