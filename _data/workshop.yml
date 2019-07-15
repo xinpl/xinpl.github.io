@@ -9,6 +9,12 @@
 #  code:
 #  other:
 
+- title: "Certified Control for Self-Driving Cars"
+  confeerence: "<b>DARS 2019</b>: 4th Workshop on the Design and Analysis of Robust Systems."
+  authors: "Daniel Jackson, Jonathan DeCastro, Soonho Kong, Dimitrios Koutentakis, Angela Leong Feng Ping, Armando Solar-Lezama, Mike Wang, and Xin Zhang"
+  paper: /papers/dars19.pdf
+  slides: /slides/dars19.pptx
+
 - title: "Combining the Logical and the Probabilistic in Program Analysis"
   conference: "<b>MAPL 2017</b>: ACM SIGPLAN Workshop on Machine Learning and Programming Languages."
   authors: "Xin Zhang, Xujie Si, and Mayur Naik"
