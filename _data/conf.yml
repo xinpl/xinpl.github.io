@@ -9,8 +9,13 @@
 #  code:
 #  other:
 
+- title: "Verifying Fairness Properties via Concentration"
+  conference: "<b>OOPSLA 2017</b>: ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications. (Conditionally Accepted)" 
+  authors: "Osbert Bastani, Xin Zhang, Armando Solar-Lezama"
+  paper: "http://arxiv.org/abs/1812.02573"
+
 - title: "Interpreting Neural Network Judgments via Minimal, Stable, and Symbolic Corrections"
-  conference: "<b>NIPS 2018</b>: Conference on Neural Information Processing Systems (<i>To Appear</i>)" 
+  conference: "<b>NeurIPS 2018</b>: Conference on Neural Information Processing Systems." 
   authors: "Xin Zhang, Armando Solar-Lezama, Rishabh Singh"
   paper: /papers/nips18.pdf
   poster: /posters/nips18.pdf
