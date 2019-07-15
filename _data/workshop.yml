@@ -10,7 +10,7 @@
 #  other:
 
 - title: "Certified Control for Self-Driving Cars"
-  confeerence: "<b>DARS 2019</b>: 4th Workshop on the Design and Analysis of Robust Systems."
+  conference: "<b>DARS 2019</b>: 4th Workshop on the Design and Analysis of Robust Systems."
   authors: "Daniel Jackson, Jonathan DeCastro, Soonho Kong, Dimitrios Koutentakis, Angela Leong Feng Ping, Armando Solar-Lezama, Mike Wang, and Xin Zhang"
   paper: /papers/dars19.pdf
   slides: /slides/dars19.pptx
