@@ -9,6 +9,11 @@
 #  code:
 #  other:
 
+- title: "A Language for Counterfactual Generative Models"
+  conference: "PLDI 2019"
+  authors: "Zenna Tavares, James Koppel, Xin Zhang, Armando Solar-Lezama"
+  paper: /papers/causal.pdf
+
 - title: "The Random Conditional Distribution for Higher-Order Probabilistic Inference"
   conference: "PLDI 2019"
   authors: "Zenna Tavares, Xin Zhang, Javier Burroni, Edgar Minasyan, Rajesh Ranganath, Armando Solar-Lezama"

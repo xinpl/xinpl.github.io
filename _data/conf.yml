@@ -10,7 +10,7 @@
 #  other:
 
 - title: "Verifying Fairness Properties via Concentration"
-  conference: "<b>OOPSLA 2019</b>: ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications. (Conditionally Accepted)" 
+  conference: "<b>OOPSLA 2019</b>: ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications." 
   authors: "Osbert Bastani, Xin Zhang, Armando Solar-Lezama"
   paper: /papers/oopsla19.pdf
 
