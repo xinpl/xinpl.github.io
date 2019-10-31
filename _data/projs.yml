@@ -1,0 +1,14 @@
+# Format:
+# - title
+# - abstract
+# - pubs: {'key': 'value'}
+# - web
+# - slides
+# - poster
+
+- title:  Explaining Neural Network Judgments Using Corrections  
+  cat: PLML
+  des: >-
+    We developed a new algorithm that generates corrections as actionable explanations when a judgment made by a neural network is undesirable to a user. To enure that it would be easy for the user to incorporate these explanations, our corrections are minimal, stable, and symbolic. For example, if a neural network rejects a user's mortgage application, our approach will generate explanations such as "you will get approved if you increase your credit score by at least 30 and salary by $200". Our algorithm generates such corrections for feedforward networks with ReLU activations by solving a sequence of linear programming problems. We demonstrated the effectiveness our technique on three networks: one predicting whether an applicant will pay a mortgage, one predicting whether a first-order theorem can be proved efficiently by a solver using certain heuristics, and the final one judging whether a drawing is an accurate rendition of a canonical drawing of a cat.
+  pubs: {"NeurIPS'18" : "/papers/nips18.pdf"}
+  

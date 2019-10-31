@@ -10,163 +10,44 @@ layout: default
 
 	<div class="col-lg-12">
 		<p>
-		I work in the intersection of formal verification and machine learning. On one hand, I apply formal verification and programming language techniques to improve interpretability, safety, fairness, and generalizability of machine learning models. On the other hand, I improve program analysis and enable its new applications by incorporating probabilistic reasoning and data-driven approaches.<p>
+		While I am broadly interested in topics related to programming languages (<b>PL</b>) and software engineering (<b>SE</b>),
+		my current focus is on program analysis and its interplay with machine learning (<b>ML</b>) and artificial intelligence (<b>AI</b>).
+		On one hand, I leverage ideas from <b>ML/AI</b> to build better program analyses.
+	On the other hand, I develope program analyses and languages for improving intepretability, fairness, robustness, and safety
+of <b>ML/AI</b> systems.
+Most of my projects can be classified into one of these two directions.</p>
 	</div>
 
 </div>
 
 <div class="row">
 	<div class="page-header" class="col-lg-12">
-		<h2>Ongoing Works</h2>
+		<h2>Projects in <b>PL/SE</b> &#8594; <b>ML/AI</b></h2>
 	</div>
-	<div class="col-lg-12">
-		{% for draft in site.data.drafts %}
-		<div class="panel panel-success">
-			<div class="panel-heading">
-				{{ draft.title }}	
-			</div>
-			<div class="panel-body">
-				{{draft.authors}}</br>
-				{% if draft.arxiv != nil %}
-				[<a href="{{draft.arxiv}}">arxiv</a>]
-				{% endif %}
-				{% if draft.paper != nil %}
-				[<a href="{{site.baseurl}}{{ draft.paper }}">PDF</a>]
-				{% endif %}
-				{% if draft.long != nil %}
-				[<a href="{{site.baseurl}}{{draft.long}}">Long Version</a>]	
-				{% endif %}
-				{% if draft.slides != nil %}
-				[<a href="{{site.baseurl}}{{draft.slides}}">Slides</a>]
-				{% endif %}
-				{% if draft.poster != nil %}
-				[<a href="{{site.baseurl}}{{draft.poster}}">Poster</a>]
-				{% endif %}
-				{% if draft.code != nil %}
-				[ {{draft.code}}]
-				{% endif %}
-				{% if draft.other != nil %}
-				{{draft.other}}
-				{% endif %}
-				{% if draft.howto != nil %}
-				[<a href="{{site.baseurl}}{{draft.howto}}">How to Run</a>]
-				{% endif %}
-			</div>
-		</div>
+	<ul>
+		{% for proj in site.data.projs %}
+		{% if proj.cat == 'PLML' %}
+		<li><h4>{{proj.title}}</h4>
+		<p>{{proj.des}}</p>
+		{% if proj.pubs != nil %}
+		Paper(s): 
+		{% for p in proj.pubs %}
+		[<a href="{{p[1]}}"> {{p[0]}} </a>]
 		{% endfor %}
+		{% endif %}
+		</li>
+		{% endif %}
+		{% endfor %}
+	</ul>
+	<div class="col-lg-12">
 	</div>
 </div>
 
 
 <div class="row">
 	<div class="page-header" class="col-lg-12">
-		<h2>Conference Publications</h2>
+		<h2>Projects in <b>ML/AI</b> &#8594; <b>PL/SE</b></h2>
 	</div>
 	<div class="col-lg-12">
-		{% for pub in site.data.conf %}
-		<div class="panel panel-success">
-			<div class="panel-heading">
-				{{ pub.title }}	
-			</div>
-			<div class="panel-body">
-				{{pub.authors}}</br>
-				{{pub.conference}}</br>
-				{% if pub.award != nil %}
-				<font color="red"><b>	{{pub.award}} </b></font></br>
-				{% endif %}
-				{% if pub.paper != nil %}
-				[<a href="{{site.baseurl}}{{ pub.paper }}">PDF</a>]
-				{% endif %}
-				{% if pub.long != nil %}
-				[<a href="{{site.baseurl}}{{pub.long}}">Long Version</a>]	
-				{% endif %}
-				{% if pub.slides != nil %}
-				[<a href="{{site.baseurl}}{{pub.slides}}">Slides</a>]
-				{% endif %}
-				{% if pub.poster != nil %}
-				[<a href="{{site.baseurl}}{{pub.poster}}">Poster</a>]
-				{% endif %}
-				{% if pub.code != nil %}
-				[ {{pub.code}}]
-				{% endif %}
-				{% if pub.other != nil %}
-				{{pub.other}}
-				{% endif %}
-				{% if pub.howto != nil %}
-				[<a href="{{site.baseurl}}{{pub.howto}}">How to Run</a>]
-				{% endif %}
-			</div>
-		</div>
-		{% endfor %}
 	</div>
 </div>
-
-<div class="row">
-	<div class="page-header" class="col-lg-12">
-		<h2>Workshop Publications</h2>
-	</div>
-	<div class="col-lg-12">
-		{% for pub in site.data.workshop %}
-		<div class="panel panel-success">
-			<div class="panel-heading">
-				{{ pub.title }}	
-			</div>
-			<div class="panel-body">
-				{{pub.authors}}</br>
-				{{pub.conference}}</br>
-				{% if pub.award != nil %}
-				<font color="red"><b>	{{pub.award}} </b></font></br>
-				{% endif %}
-				{% if pub.paper != nil %}
-				[<a href="{{site.baseurl}}{{ pub.paper }}">PDF</a>]
-				{% endif %}
-				{% if pub.long != nil %}
-				[<a href="{{site.baseurl}}{{pub.long}}">Long Version</a>]	
-				{% endif %}
-				{% if pub.slides != nil %}
-				[<a href="{{site.baseurl}}{{pub.slides}}">Slides</a>]
-				{% endif %}
-				{% if pub.poster != nil %}
-				[<a href="{{site.baseurl}}{{pub.poster}}">Poster</a>]
-				{% endif %}
-				{% if pub.code != nil %}
-				[ {{pub.code}}]
-				{% endif %}
-				{% if pub.other != nil %}
-				{{pub.other}}
-				{% endif %}
-				{% if pub.howto != nil %}
-				[<a href="{{site.baseurl}}{{pub.howto}}">How to Run</a>]
-				{% endif %}
-			</div>
-		</div>
-		{% endfor %}
-	</div>
-</div>
-
-
-
-<div class="row">
-	<div class="page-header" class="col-lg-12">
-		<h2>Other Talks</h2>
-	</div>
-	<div class="col-lg-12">
-		{% for talk in site.data.talks %}
-		<div class="panel panel-warning">
-			<div class="panel-heading">
-				{{ talk.title }}	
-			</div>
-			<div class="panel-body">
-				<i>{{talk.des}}</i></br>
-				{% if talk.slides != nil %}
-				[<a href="{{site.baseurl}}{{talk.slides}}">Slides</a>]
-				{% endif %}
-				{% if talk.poster != nil %}
-				[<a href="{{site.baseurl}}{{talk.poster}}">Poster</a>]
-				{% endif %}
-			</div>
-		</div>
-		{% endfor %}
-	</div>
-</div>
-
