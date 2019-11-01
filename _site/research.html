@@ -122,11 +122,49 @@ Most of my projects can be classified into one of these two directions.</p>
 		
 		
 		<li><h4>Explaining Neural Network Judgments Using Corrections</h4>
-		<p>We developed a new algorithm that generates corrections as actionable explanations when a judgment made by a neural network is undesirable to a user. To enure that it would be easy for the user to incorporate these explanations, our corrections are minimal, stable, and symbolic. For example, if a neural network rejects a user's mortgage application, our approach will generate explanations such as "you will get approved if you increase your credit score by at least 30 and salary by $200". Our algorithm generates such corrections for feedforward networks with ReLU activations by solving a sequence of linear programming problems. We demonstrated the effectiveness our technique on three networks: one predicting whether an applicant will pay a mortgage, one predicting whether a first-order theorem can be proved efficiently by a solver using certain heuristics, and the final one judging whether a drawing is an accurate rendition of a canonical drawing of a cat.</p>
+		<p>We developed a new program analysis that generates corrections as actionable explanations when a judgment made by a neural network is undesirable to a user. To enure that it would be easy for the user to incorporate these explanations, our corrections are minimal, stable, and symbolic. For example, if a neural network rejects a user's mortgage application, our approach will generate explanations such as "you will get approved if you increase your credit score by at least 30 and salary by $200". Our algorithm generates such corrections for feedforward networks with ReLU activations by solving a sequence of linear programming problems. We demonstrated the effectiveness our technique on three networks: one predicting whether an applicant will pay a mortgage, one predicting whether a first-order theorem can be proved efficiently by a solver using certain heuristics, and the final one judging whether a drawing is an accurate rendition of a canonical drawing of a cat.</p>
 		
 		Paper(s): 
 		
 		[<a href="/papers/nips18.pdf"> NeurIPS'18 </a>]
+		
+		
+		</li>
+		
+		
+		
+		<li><h4>Scalable Verification of Algorithmic Fairness</h4>
+		<p>As machine learning systems are increasingly used to make real world legal and financial decisions, it is of paramount importance that we develop algorithms to verify that these systems do not discriminate against minorities. We design the first scalable algorithm for verifying fairness specifications. Our algorithm obtains strong correctness guarantees based on adaptive concentration inequalities; such inequalities enable our algorithm to adaptively take samples until it has enough data to make a decision. We implement our algorithm in a tool called VeriFair, and show that it scales to large machine learning models, including a deep recurrent neural network that is more than five orders of magnitude larger than the largest previously-verified neural network.While our technique only gives probabilistic guarantees due to the use of random samples, we show that we can choose the probability of error to be extremely small.</p>
+		
+		Paper(s): 
+		
+		[<a href="/papers/oopsla19.pdf"> OOPSLA'19 </a>]
+		
+		
+		</li>
+		
+		
+		
+		<li><h4>Omega: A Probabilistic Programming Language for Uncertain Distributional Properties and Causality</h4>
+		<p><p> Probabilistic programming has become an emerging topic in <b>ML</b> and <b>PL</b> due to its abilities to a) succinctly construct arbitrary distributions, and b) condition rich predicates. Omega further improves the expressiveness by adding two new features: </p> a) Omega allows conditioning on distributional properties, which summarize the whole output distribution rather than a single sample. Example properties include expectations, variances, KL-divergence, and expressions that compose them. This enable many important applications such as inferring machine learning models that are fair or robust. There are two main challenges: 1) conditioning distributional properties is a semantic error as they are not random variables, and 2) there can be multiple ways to change the distributions to satisfy these properties. We introduce a new language construct called <i>Random Conditional Distributions</i> to address them. We demonstrate the effectiveness of our approach by repairing classifiers that are not robust and classifiers that are unfair. <p> </p> b) Omega adds support for interventions and counterfactuals. They are the two basic operators for causal inference which is another emerging trend in <b>ML</b> as existing models are good at capturing correlation but not causality. We implement these two operators by applying lazy evaluation and demonstrate their effectiveness on examples in population dynamics, inverse planning, and causation. <p> </p></p>
+		
+		Paper(s): 
+		
+		[<a href="/papers/rcdpldi.pdf"> Tech Report 1 </a>]
+		
+		[<a href="/papers/causal.pdf"> Tech Report 2 </a>]
+		
+		
+		</li>
+		
+		
+		
+		<li><h4>Certified Control for Self-Driving Cars</h4>
+		<p>Certified control is a new architectural pattern for achieving high assurance of safety in autonomous cars. As with a traditional safety controller or interlock, a separate component oversees safety and intervenes to prevent safety violations. This component (along with sensors and actuators) comprises a trusted base that can ensure safety even if the main controller fails. But in certified control, the interlock does not use the sensors directly to determine when to intervene. Instead, the main controller is given the responsibility of presenting the interlock with a certificate that provides evidence that the proposed next action is safe. The interlock checks this certificate, and intervenes only if the check fails. Because generating such a certificate is usually much harder than checking one, the interlock can be smaller and simpler than the main controller, and thus assuring its correctness is more feasible. More information can be found at <a href=\"https://www.csail.mit.edu/research/interlock-self-driving-cars\">https://www.csail.mit.edu/research/interlock-self-driving-cars </a>.</p>
+		
+		Paper(s): 
+		
+		[<a href="/papers/dars19.pdf"> DARS'19 </a>]
 		
 		
 		</li>
