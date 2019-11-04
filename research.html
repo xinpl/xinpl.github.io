@@ -32,7 +32,7 @@ Most of my projects can be classified into one of these two directions.</p>
 		{% if proj.pubs != nil %}
 		Paper(s): 
 		{% for p in proj.pubs %}
-		[<a href="{{p[1]}}"> {{p[0]}} </a>]
+		[<a href="{{site.baseurl}}{{p[1]}}"> {{p[0]}} </a>]
 		{% endfor %}
 		{% endif %}
 		</li>
@@ -57,7 +57,7 @@ Most of my projects can be classified into one of these two directions.</p>
 					{% if proj.pubs != nil %}
 					Paper(s): 
 					{% for p in proj.pubs %}
-					[<a href="{{p[1]}}"> {{p[0]}} </a>]
+					[<a href="{{site.baseurl}}{{p[1]}}"> {{p[0]}} </a>]
 					{% endfor %}
 					{% endif %}
 					</li>
