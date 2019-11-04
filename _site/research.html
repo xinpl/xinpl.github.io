@@ -7,12 +7,12 @@
 <meta name="description" content="">
 <meta name="keywords" context="Xin Zhang,Xin,Zhang,PhD,Georgia Tech">
 
-<link href="/css/bootstrap.css" rel="stylesheet">
-<link href="/css/customer.css" rel="stylesheet">
+<link href="http://people.csail.mit.edu/xzhang//css/bootstrap.css" rel="stylesheet">
+<link href="http://people.csail.mit.edu/xzhang//css/customer.css" rel="stylesheet">
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="/js/bootstrap.min.js"></script>
+<script src="http://people.csail.mit.edu/xzhang//js/bootstrap.min.js"></script>
 
 <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
 <!--[if lt IE 9]>
@@ -53,37 +53,37 @@ ript>
 				
 				
 				<li class="first  ">
-				<a href="/index.html">Home</a>
+				<a href="http://people.csail.mit.edu/xzhang//index.html">Home</a>
 				</li>
 				
 				
 				
 				<li class=" active ">
-				<a href="/research.html">Research</a>
+				<a href="http://people.csail.mit.edu/xzhang//research.html">Research</a>
 				</li>
 				
 				
 				
 				<li class="  ">
-				<a href="/publications.html">Publications</a>
+				<a href="http://people.csail.mit.edu/xzhang//publications.html">Publications</a>
 				</li>
 				
 				
 				
 				<li class="  ">
-				<a href="/service.html">Service</a>
+				<a href="http://people.csail.mit.edu/xzhang//service.html">Service</a>
 				</li>
 				
 				
 				
 				<li class="  ">
-				<a href="/awards.html">Awards</a>
+				<a href="http://people.csail.mit.edu/xzhang//awards.html">Awards</a>
 				</li>
 				
 				
 				
 				<li class="  last">
-				<a href="/about.html">About Me</a>
+				<a href="http://people.csail.mit.edu/xzhang//about.html">About Me</a>
 				</li>
 				
 			</ul>
@@ -121,8 +121,8 @@ Most of my projects can be classified into one of these two directions.</p>
 	<ul>
 		
 		
-		<li><h4>Explaining Neural Network Judgments Using Corrections</h4>
-		<p>We developed a new program analysis that generates corrections as actionable explanations when a judgment made by a neural network is undesirable to a user. To enure that it would be easy for the user to incorporate these explanations, our corrections are minimal, stable, and symbolic. For example, if a neural network rejects a user's mortgage application, our approach will generate explanations such as "you will get approved if you increase your credit score by at least 30 and salary by $200". Our algorithm generates such corrections for feedforward networks with ReLU activations by solving a sequence of linear programming problems. We demonstrated the effectiveness our technique on three networks: one predicting whether an applicant will pay a mortgage, one predicting whether a first-order theorem can be proved efficiently by a solver using certain heuristics, and the final one judging whether a drawing is an accurate rendition of a canonical drawing of a cat.</p>
+		<li><h4><b>Explaining Neural Network Judgments Using Corrections</b></h4>
+		<p>We developed a new program analysis that generates corrections as actionable explanations when a judgment made by a neural network is undesirable to a user. To enure that it would be easy for the user to incorporate these explanations, our corrections are minimal, stable, and symbolic. For example, if a neural network rejects a user's mortgage application, our approach will generate explanations such as "you will get approved if you increase your credit score by at least 30 and salary by $200". Our algorithm generates such corrections for feedforward networks with ReLU activations by solving a sequence of linear programming problems. We demonstrate the effectiveness our technique on three networks: one predicting whether an applicant will pay a mortgage, one predicting whether a first-order theorem can be proved efficiently by a solver using certain heuristics, and the final one judging whether a drawing is an accurate rendition of a canonical drawing of a cat.</p>
 		
 		Paper(s): 
 		
@@ -133,7 +133,7 @@ Most of my projects can be classified into one of these two directions.</p>
 		
 		
 		
-		<li><h4>Scalable Verification of Algorithmic Fairness</h4>
+		<li><h4><b>Scalable Verification of Algorithmic Fairness</b></h4>
 		<p>As machine learning systems are increasingly used to make real world legal and financial decisions, it is of paramount importance that we develop algorithms to verify that these systems do not discriminate against minorities. We design the first scalable algorithm for verifying fairness specifications. Our algorithm obtains strong correctness guarantees based on adaptive concentration inequalities; such inequalities enable our algorithm to adaptively take samples until it has enough data to make a decision. We implement our algorithm in a tool called VeriFair, and show that it scales to large machine learning models, including a deep recurrent neural network that is more than five orders of magnitude larger than the largest previously-verified neural network.While our technique only gives probabilistic guarantees due to the use of random samples, we show that we can choose the probability of error to be extremely small.</p>
 		
 		Paper(s): 
@@ -145,8 +145,8 @@ Most of my projects can be classified into one of these two directions.</p>
 		
 		
 		
-		<li><h4>Omega: A Probabilistic Programming Language for Uncertain Distributional Properties and Causality</h4>
-		<p><p> Probabilistic programming has become an emerging topic in <b>ML</b> and <b>PL</b> due to its abilities to a) succinctly construct arbitrary distributions, and b) condition rich predicates. Omega further improves the expressiveness by adding two new features: </p> a) Omega allows conditioning on distributional properties, which summarize the whole output distribution rather than a single sample. Example properties include expectations, variances, KL-divergence, and expressions that compose them. This enable many important applications such as inferring machine learning models that are fair or robust. There are two main challenges: 1) conditioning distributional properties is a semantic error as they are not random variables, and 2) there can be multiple ways to change the distributions to satisfy these properties. We introduce a new language construct called <i>Random Conditional Distributions</i> to address them. We demonstrate the effectiveness of our approach by repairing classifiers that are not robust and classifiers that are unfair. <p> </p> b) Omega adds support for interventions and counterfactuals. They are the two basic operators for causal inference which is another emerging trend in <b>ML</b> as existing models are good at capturing correlation but not causality. We implement these two operators by applying lazy evaluation and demonstrate their effectiveness on examples in population dynamics, inverse planning, and causation. <p> </p></p>
+		<li><h4><b>Omega: A Probabilistic Programming Language for Uncertain Distributional Properties and Causality</b></h4>
+		<p><p> Probabilistic programming has become an emerging topic in <b>ML</b> and <b>PL</b> due to its abilities to a) succinctly construct arbitrary distributions, and b) condition rich predicates. Omega further improves the expressiveness by adding two new features: </p> a) Omega allows conditioning on distributional properties, which summarize the whole output distribution rather than a single sample. Example properties include expectations, variances, KL-divergence, and expressions that compose them. This enable many important applications such as inferring machine learning models that are fair or robust. There are two main challenges: 1) conditioning distributional properties is a semantic error as they are not random variables, and 2) there can be multiple ways to change the distributions to satisfy these properties. We introduce a new language construct called <i>Random Conditional Distributions</i> to address them. We demonstrate the effectiveness of our approach by repairing classifiers that are not robust and classifiers that are unfair. <p> </p> b) Omega adds support for interventions and counterfactuals. They are the two basic operators for causal inference which is another emerging trend in <b>ML</b> as existing models are good at capturing correlations but not causality. We implement these two operators by applying lazy evaluation and demonstrate their effectiveness on examples in population dynamics, inverse planning, and causation. <p> </p></p>
 		
 		Paper(s): 
 		
@@ -159,8 +159,8 @@ Most of my projects can be classified into one of these two directions.</p>
 		
 		
 		
-		<li><h4>Certified Control for Self-Driving Cars</h4>
-		<p>Certified control is a new architectural pattern for achieving high assurance of safety in autonomous cars. As with a traditional safety controller or interlock, a separate component oversees safety and intervenes to prevent safety violations. This component (along with sensors and actuators) comprises a trusted base that can ensure safety even if the main controller fails. But in certified control, the interlock does not use the sensors directly to determine when to intervene. Instead, the main controller is given the responsibility of presenting the interlock with a certificate that provides evidence that the proposed next action is safe. The interlock checks this certificate, and intervenes only if the check fails. Because generating such a certificate is usually much harder than checking one, the interlock can be smaller and simpler than the main controller, and thus assuring its correctness is more feasible. More information can be found at <a href=\"https://www.csail.mit.edu/research/interlock-self-driving-cars\">https://www.csail.mit.edu/research/interlock-self-driving-cars </a>.</p>
+		<li><h4><b>Certified Control for Self-Driving Cars</b></h4>
+		<p>Certified control is a new architectural pattern for achieving high assurance of safety in autonomous cars. As with a traditional safety controller or interlock, a separate component oversees safety and intervenes to prevent safety violations. This component (along with sensors and actuators) comprises a trusted base that can ensure safety even if the main controller fails. But in certified control, the interlock does not use the sensors directly to determine when to intervene. Instead, the main controller is given the responsibility of presenting the interlock with a certificate that provides evidence that the proposed next action is safe. The interlock checks this certificate, and intervenes only if the check fails. Because generating such a certificate is usually much harder than checking one, the interlock can be smaller and simpler than the main controller, and thus assuring its correctness is more feasible. More information can be found at <a href="https://www.csail.mit.edu/research/interlock-self-driving-cars">https://www.csail.mit.edu/research/interlock-self-driving-cars </a>.</p>
 		
 		Paper(s): 
 		
@@ -168,6 +168,10 @@ Most of my projects can be classified into one of these two directions.</p>
 		
 		
 		</li>
+		
+		
+		
+		
 		
 		
 	</ul>
@@ -181,6 +185,57 @@ Most of my projects can be classified into one of these two directions.</p>
 		<h2>Projects in <b>ML/AI</b> &#8594; <b>PL/SE</b></h2>
 	</div>
 	<div class="col-lg-12">
+			<ul>
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					<li><h4><b>Adaptive Program Analysis by Combining Logical and Probabilistic Reasoning</b></h4>
+					<p>Approximations are necessary evils in program analyses as any nontrivial analysis problem is undecidable. A key challenge is how to choose an approximation that balances various tradeoffs such as precision vs. scalability and false positive rate vs. false negative rate. Our key insight is that it is unviable to find a one-size-fits-all approximation for all usage scenarios, so instead we on the fly synthesize a specialized approximation that is optimal for each individual usage scenario. We propose a unified framework that automatically encodes this problem as a system of mixed logical and probabilistic constraints. While the logical part encodes the space of correct approximations, the probabilistic part encodes uncertainties that come from different usage scenarios. We implemented several typical adaptivity tasks inside the framework including adapting to individual assertions of interest, adapting to user feedback, and adapting to patterns of procedure reuses within and across programs. We demonstrate the effectiveness of our approach on important analyses such as pointer analysis, type-state analysis, and race detection by improving their precision and scalability significantly.</p>
+					
+					Paper(s): 
+					
+					[<a href="/papers/pldi13.pdf"> PLDI'13 </a>]
+					
+					[<a href="/papers/pldi14a.pdf"> PLDI'14a </a>]
+					
+					[<a href="/papers/pldi14b.pdf"> PLDI'14b </a>]
+					
+					[<a href="/papers/fse15a.pdf"> FSE'15 </a>]
+					
+					[<a href="/papers/oopsla16.pdf"> OOPSLA'16 </a>]
+					
+					[<a href="/papers/oopsla17.pdf"> OOPSLA'17 </a>]
+					
+					
+					</li>
+					
+					
+					
+					<li><h4><b>Nichrome: A Scalable Solver for Mixed Hard And Soft Constraints</b></h4>
+					<p>Mixed hard and soft constraints have been increasingly used in program analyses: while the hard constraints encode soundness requirements, the soft constraints encode different optimization objectives. Although there exist solvers and algorithms for such constraints, program analysis applications pose new challenges. On one hand, exact solvers such as Z3 have difficulties scaling to large constraints (upto 10^30 clauses) generated from these applications. On the other hand, fast and approximate solvers such as Tuffy and Alchemy can violate hard constraints which is unacceptable for verification tasks. To address these challenges, we propose several new solving techniques by leveraging domain insights and implemented them in a solver called Nichrome. These techniques include iterative-lazy solving, query-guided solving, and incremental solving. We showed that our solver not only outperforms existing solvers on constraints generated from program analysis, but also on constraints generated from applications in information retrieval, artificial intelligence, and other domains.</p>
+					
+					Paper(s): 
+					
+					[<a href="/papers/sat15.pdf"> SAT'15 </a>]
+					
+					[<a href="/papers/popl16.pdf"> POPL'16 </a>]
+					
+					[<a href="/papers/aaai16.pdf"> AAAI'16 </a>]
+					
+					[<a href="/papers/cp16.pdf"> CP'16 </a>]
+					
+					
+					</li>
+					
+					
+				</ul>
 	</div>
 </div>
 
