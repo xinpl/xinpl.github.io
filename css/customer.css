@@ -50,3 +50,8 @@ img.aligncenter {
 	border-style: none;
 }
 
+.proj-pic{
+	float: right;
+	width: 25%;
+	margin: 3px;
+}
