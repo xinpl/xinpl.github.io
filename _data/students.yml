@@ -1,5 +1,19 @@
+- name: "Yifan Chen"
+  pos: "PhD student"
+  inst: "Peking University"
+  paper: "Learning Equivalence Class Abstraction for Accelerating Datalog Analysis"
+
+- name: "<a href=\"http://www.jameskoppel.com/\">James Koppel</a> and <a href=\"http://www.zenna.org/\">Zenna Tavares</a>"
+  pos: "PhD students"
+  inst: "MIT"
+  paper: "A Language for Counterfactual Generative Models"
+  link: "/papers/causal.pdf"
+  paper1: "The Random Conditional Distribution for Higher-Order Probabilistic Inference"
+  link1: "/papers/rcdpldi.pdf"
+
 - name: "<a href=\"http://www.cc.gatech.edu/~skulkarn/\">Sulekha Kulkarni</a>"
   pos: "PhD student"
+  inst: "University of Pennsylvania"
   paper: "Accelerating Program Analyses by Cross-Program Training"
   link: "/papers/oopsla16.pdf"  
 

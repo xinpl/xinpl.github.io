@@ -48,7 +48,18 @@ layout: default
 		 <ul class="list-group list-special">
 		{% for item in site.data.students %}
 		<li class="list-group-item">
-		{{item.name}}, {{item.pos}}. <a href="{{site.baseurl}}{{item.link}}">{{item.paper}}</a>.
+		{% if item.link != nil %}
+		{{item.name}}, {{item.pos}}, {{item.inst}}. <a href="{{site.baseurl}}{{item.link}}">{{item.paper}}</a>.
+		{% else %}
+		{{item.name}}, {{item.pos}}, {{item.inst}}. {{item.paper}}.
+		{% endif %}
+		{% if item.paper1 != nil%}
+			{% if item.link1 != nil %}
+			<a href="{{site.baseurl}}{{item.link1}}">{{item.paper1}}</a>.
+			{% else %}
+			{{item.paper1}}.
+			{% endif %}
+		{% endif %}
 		</li>
 		{% endfor%}
 		</ul>
