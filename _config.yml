@@ -10,6 +10,6 @@ navigation:
           url: /service.html
         - text: Awards
           url: /awards.html
-        - text: About Me
-          url: /about.html
+#        - text: About Me
+#          url: /about.html
 

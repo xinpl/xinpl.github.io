@@ -10,7 +10,7 @@ navigation:
           url: /service.html
         - text: Awards
           url: /awards.html
-        - text: About Me
-          url: /about.html
+#        - text: About Me
+#          url: /about.html
 
 baseurl: "http://people.csail.mit.edu/xzhang/"
