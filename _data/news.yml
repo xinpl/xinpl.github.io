@@ -9,8 +9,8 @@
 #          </ul>
 #          "
 
-- date: Feb 10, 2020
-  content: "Tentative traveling plan for the spring: <ul><li>University of Maryland</li> <li>University of Michigan</li> <li>McGill University</li> <li>National University of Singapore</li></ul>"
+- date: Feb 11, 2020
+  content: "Tentative travel plan for the spring: <ul><li>University of Maryland</li> <li>University of Michigan</li> <li>McGill University</li> <li>National University of Singapore</li> <li>Carnegie Mellon University</li></ul>"
 
 - date: Oct 1, 2019
   content: "New paper at <a href=\"https://conf.researchr.org/track/splash-2019/splash-2019-oopsla\">OOPSLA'19</a> on scalable verification of algorithmic fairness."
