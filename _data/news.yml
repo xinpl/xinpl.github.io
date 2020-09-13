@@ -9,8 +9,14 @@
 #          </ul>
 #          "
 
-- date: Feb 11, 2020
-  content: "Tentative travel plan for the spring: <ul><li>University of Maryland</li> <li>University of Michigan</li> <li>McGill University</li> <li>National University of Singapore</li> <li>Carnegie Mellon University</li></ul>"
+- date: Sep 13, 2020
+  content: I am actively <b>recruiting</b> motivated Ph.D. students and Master's students! If you're interested, please apply to our graduate program. If you're an undergraduate at Peking who wants to try out research, feel free to contact me!
+
+- date: Sep 1, 2020
+  content: "I will serve on the program committee of <a href=\"https://pldi21.sigplan.org\">PLDI'21</a> and <a href=\"https://www.ijcai.org/future_conferences\">IJCAI'21</a>. Please consider submitting to them!"
+
+#- date: Feb 11, 2020
+#  content: "Tentative travel plan for the spring: <ul><li>University of Maryland</li> <li>University of Michigan</li> <li>McGill University</li> <li>National University of Singapore</li> <li>Carnegie Mellon University</li></ul>"
 
 - date: Oct 1, 2019
   content: "New paper at <a href=\"https://conf.researchr.org/track/splash-2019/splash-2019-oopsla\">OOPSLA'19</a> on scalable verification of algorithmic fairness."
