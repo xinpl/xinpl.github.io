@@ -9,6 +9,11 @@
 #  code:
 #  other:
 
+- title: "A Language for Counterfactual Generative Models"
+  conference: "<b>ICML 2021</b>: International Conference on Machine Learning (To Appear)"
+  authors: "Zenna Tavares, James Koppel, Xin Zhang, Armando Solar-Lezama"
+  paper: /papers/causal.pdf
+
 - title: "Verifying Fairness Properties via Concentration"
   conference: "<b>OOPSLA 2019</b>: ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications." 
   authors: "Osbert Bastani, Xin Zhang, Armando Solar-Lezama"
