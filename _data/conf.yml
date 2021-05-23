@@ -11,7 +11,7 @@
 
 - title: "A Language for Counterfactual Generative Models"
   conference: "<b>ICML 2021</b>: International Conference on Machine Learning (To Appear)"
-  authors: "Zenna Tavares, James Koppel, Xin Zhang, Armando Solar-Lezama"
+  authors: "Zenna Tavares, James Koppel, Xin Zhang, Ria Das, Armando Solar-Lezama"
 #  paper: /papers/causal.pdf
 
 - title: "Verifying Fairness Properties via Concentration"
