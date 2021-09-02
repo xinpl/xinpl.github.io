@@ -1,4 +1,10 @@
 - date: Sep 16
   title: Introduction 
   slides: /
-  supp: The Five Tribes of Machine Learning with Pedro Domingos
+  supp: "<a href=\"https://learning.acm.org/techtalks/machinelearning\">The Five Tribes of Machine Learning with Pedro Domingos</a>"
+
+- date: Sep 23
+  title: Probabilistic Programming Using WebPPL
+  slides: /
+  supp: "<a href=\"https://www.problang.org/chapters/app-06-intro-to-webppl.html\">Introduction to WebPPL</a>"
+
