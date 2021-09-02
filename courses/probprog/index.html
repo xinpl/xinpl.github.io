@@ -61,11 +61,24 @@ layout: course
         <div class="schedule">
             <h4>Schedule (Updating)</h4>
             <table>
-                <th>
-                    <td>Date</td>
-                    <td>Slides</td>
-                    <td>Extended Reading</td>
-                </th>
+                <tr>
+                    <th>Date</th>
+                    <th>Slides</th>
+                    <th>Extended Reading</th>
+                </tr>
+                {% for lecture in site.data.course.pp %}
+                <tr>
+                    <td>
+                        {{lecture.date}}
+                    </td>
+                    <td>
+                       <a href="{{site.baseurl}}{{lecture.slides}}" >{{lecture.title}}</a>
+                    </td>
+                    <td>
+
+                    </td>
+                </tr>
+                {% endfor %}
             </table>
         </div>
     </div>
