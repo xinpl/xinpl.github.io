@@ -11,8 +11,8 @@
 - date: Week 3-4
   title: Background Knowledge (Graphical Models)
   slides: /
-  supp: TBD
-
+  supp:  "Chapter 8 of <a href=\"https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf\">Pattern Recognition and Machine Learning</a>"
+    
 - date: Week 5-6
   title: Theoretical Foundations (Measure Theory and Semantics)
   slies: /
