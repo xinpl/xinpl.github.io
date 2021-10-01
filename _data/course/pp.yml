@@ -8,37 +8,44 @@
   slides: /slides/courses/pp/lecture2.pdf
   supp: "<a href=\"https://www.problang.org/chapters/app-06-intro-to-webppl.html\">Introduction to WebPPL</a>"
 
-- date: Week 3-4
-  title: Background Knowledge (Graphical Models)
+- date: Sep 30
+  title: Graphical Models 1 
+  slides: /slides/courses/pp/lecture3.pdf
+  supp:  "Chapter 8 of <a href=\"https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf\">Pattern Recognition and Machine Learning</a>"
+
+
+- date: Oct 14
+  title: Graphical Models 2
   slides: /
   supp:  "Chapter 8 of <a href=\"https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf\">Pattern Recognition and Machine Learning</a>"
+ 
     
-- date: Week 5-6
+- date: Week 6-7
   title: Theoretical Foundations (Measure Theory and Semantics)
   slies: /
   supp: TBD 
 
-- date: Week 7
+- date: Week 8
   title: Mid-Term 
   slies: /
   supp: 
 
-- date: Week 8-9
+- date: Week 9-10
   title: Inference Algorithms 
   slies: /
   supp: TBD 
 
-- date: Week 10
+- date: Week 11
   title: Learning Algorithms 
   slies: /
   supp: TBD 
 
-- date: Week 11-12
+- date: Week 12-13
   title: Probabilistic Logic Programming 
   slies: /
   supp: TBD 
 
-- date: Week 13-15
+- date: Week 14-15
   title: Advanced Topics
   slides: /
   supp: TBD
