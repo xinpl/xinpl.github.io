@@ -16,31 +16,36 @@
 
 - date: Oct 14
   title: Graphical Models 2
-  slides: /
+  slides: /slides/courses/pp/lecture4.pdf
   supp:  "Chapter 8 of <a href=\"https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf\">Pattern Recognition and Machine Learning</a>"
+
+- date: Oct 21
+  title: Approximate Inference
+  slides:
+  supp: "Chapter 10&11 of <a href=\"https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf\">Pattern Recognition and Machine Learning</a>"
  
     
-- date: Week 6-7
+- date: Week 7-8
   title: Theoretical Foundations (Measure Theory and Semantics)
   slies: /
   supp: TBD 
 
-- date: Week 8
+- date: Week 9
   title: Mid-Term 
   slies: /
   supp: 
 
-- date: Week 9-10
+- date: Week 10-11
   title: Inference Algorithms 
   slies: /
   supp: TBD 
 
-- date: Week 11
+- date: Week 12
   title: Learning Algorithms 
   slies: /
   supp: TBD 
 
-- date: Week 12-13
+- date: Week 13
   title: Probabilistic Logic Programming 
   slies: /
   supp: TBD 
