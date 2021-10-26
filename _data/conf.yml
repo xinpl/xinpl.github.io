@@ -10,8 +10,9 @@
 #  other:
 
 - title: "Accelerating Program Analyses in Datalog by Merging Library Facts"
-  conference: "<b>SAS 2021</b>: Static Analysis Symposium (To Appear)"
+  conference: "<b>SAS 2021</b>: Static Analysis Symposium"
   authors: "Yifan Chen, Chenyang Yang, Xin Zhang, Yingfei Xiong, Hao Tang, Xiaoyin Wang, Lu Zhang"
+  paper: /papers/sas21.pdf
 
 - title: "A Language for Counterfactual Generative Models"
   conference: "<b>ICML 2021</b>: International Conference on Machine Learning"
