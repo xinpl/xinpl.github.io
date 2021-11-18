@@ -46,10 +46,6 @@
   slies: /slides/courses/pp/lecture8.pdf
   supp: Chapter 3 of"<a href=\"https://arxiv.org/abs/1809.10756\">An Introduction to Probabilistic Programming</a>"
 
-itle: Inference in Probabilistic Programming I 
-  slies: /slides/courses/pp/lecture8.pdf  
-  supp: Chapter 3 of"<a href=\"https://arxiv.org/abs/1809.10756\">An Introduction to Probabilistic Programming</a>"
-
 - date: Nov 25
   title: Inference in Probabilistic Programming II 
   slies: 
