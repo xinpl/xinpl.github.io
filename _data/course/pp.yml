@@ -40,27 +40,33 @@
   slies: /
   supp: 
 
-- date: Week 10-11
-  title: Inference Algorithms 
-  slies: /
-  supp: TBD 
+- date: Nov 18
+  title: Inference in Probabilistic Programming I 
+  slies: /slides/courses/pp/lecture8.pdf  
+  supp: Chapter 3 of"<a href=\"https://arxiv.org/abs/1809.10756\">An Introduction to Probabilistic Programming</a>"
 
-- date: Week 12
+- date: Nov 25
+  title: Inference in Probabilistic Programming II 
+  slies: 
+  supp: Chapter 4 of"<a href=\"https://arxiv.org/abs/1809.10756\">An Introduction to Probabilistic Programming</a>"
+
+
+- date: Dec 2
   title: Learning Algorithms 
   slies: /
   supp: TBD 
 
-- date: Week 13
+- date: Dec 9
   title: Probabilistic Logic Programming 
   slies: /
   supp: TBD 
 
-- date: Week 14-15
+- date: Deck 16
   title: Advanced Topics
   slides: /
   supp: TBD
 
-- date: Week 16
+- date: Dec 23
   title: FInal
   slides: /
   supp:
