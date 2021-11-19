@@ -44,12 +44,12 @@
   t- date: Nov 18
   title: Inference in Probabilistic Programming I 
   slides: /slides/courses/pp/lecture8.pdf
-  supp: Chapter 3 of"<a href=\"https://arxiv.org/abs/1809.10756\">An Introduction to Probabilistic Programming</a>"
+  supp: "Chapter 3 of <a href=\"https://arxiv.org/abs/1809.10756\">An Introduction to Probabilistic Programming</a>"
 
 - date: Nov 25
   title: Inference in Probabilistic Programming II 
   slies: 
-  supp: Chapter 4 of"<a href=\"https://arxiv.org/abs/1809.10756\">An Introduction to Probabilistic Programming</a>"
+  supp: "Chapter 4 of <a href=\"https://arxiv.org/abs/1809.10756\">An Introduction to Probabilistic Programming</a>"
 
 
 - date: Dec 2
