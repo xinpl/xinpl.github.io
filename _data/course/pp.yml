@@ -54,8 +54,8 @@
 
 - date: Dec 2
   title: Learning Algorithms 
-  slides: /
-  supp: TBD 
+  slides: /slides/courses/pp/lecture9.pdf
+  supp: "Lecture 13-16 of <a href=\"https://xiongyingfei.github.io/SA/2020/main.htm\">Software Analysis</a>" 
 
 - date: Dec 9
   title: Probabilistic Logic Programming 
