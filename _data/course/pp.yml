@@ -48,7 +48,7 @@
 
 - date: Nov 25
   title: Inference in Probabilistic Programming II 
-  slies: /slides/courses/pp/lecture9.pdf
+  slides: /slides/courses/pp/lecture9.pdf
   supp: "Chapter 4 of <a href=\"https://arxiv.org/abs/1809.10756\">An Introduction to Probabilistic Programming</a>"
 
 
