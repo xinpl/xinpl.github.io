@@ -9,6 +9,11 @@
 #  code:
 #  other:
 
+- title: "Fault Localization via Efficient Probabilistic Modeling of Program Semantics"
+  conference: "<b>ICSE 2022</b>: International Conference on Software Engineering (To Appear)"
+  authors: "Muhan Zeng#, Yiqian Wu#, Zhentao Ye, Yingfei Xiong, Xin Zhang, Lu Zhang (#: equal contribution)"
+ 
+
 - title: "Accelerating Program Analyses in Datalog by Merging Library Facts"
   conference: "<b>SAS 2021</b>: Static Analysis Symposium"
   authors: "Yifan Chen, Chenyang Yang, Xin Zhang, Yingfei Xiong, Hao Tang, Xiaoyin Wang, Lu Zhang"
