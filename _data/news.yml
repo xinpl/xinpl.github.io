@@ -9,8 +9,20 @@
 #          </ul>
 #          "
 
-- date: Sep 13, 2020
-  content: I am actively <b>recruiting</b> motivated Ph.D. students! If you're interested, please apply to our graduate program. If you're an undergraduate at Peking who wants to try out research, feel free to contact me!
+- date: March 2022
+  content: I have two openings for Ph.D. students this year. If you're interested in topics related to program analysis, program synthesis, and reliable machine learning, please apply to our program and contact me!
+
+- date: Feb 2022
+  content: new paper on applying Bayesian methods to semantics-based fault localization at ICSE'22.
+
+- date: July 2021
+  content: new paper on accelerating static analyses at SAS'21. 
+
+- date: May 2021
+  content: new paper on supporting causal inference in probabilistic programming at ICML'21.
+
+  #- date: Sep 13, 2020
+  #  content: I am actively <b>recruiting</b> motivated Ph.D. students! If you're interested, please apply to our graduate program. If you're an undergraduate at Peking who wants to try out research, feel free to contact me!
 
 - date: Sep 1, 2020
   content: "I will serve on the program committees of <a href=\"https://pldi21.sigplan.org\">PLDI'21</a> and <a href=\"https://www.ijcai.org/future_conferences\">IJCAI'21</a>. Please consider submitting to them!"
@@ -33,23 +45,23 @@
 - date: Aug 8, 2018
   content: "New poster about conditioning on distributional properties in probablistic programming at <a href=\"https://probprog.cc/\">PROBPROG'18</a>."
 
-- date: Dec 2, 2017
-  content: "Invited tutorial about our work on Maximum Satisfiability in Software Analysis at <a href=\"http://cavconference.org/2017/invited-tutorial-speakers/\">CAV'17</a> and <a href=\"https://popl18.sigplan.org/track/VMCAI-2018\">VMCAI'18</a>."
-
-- date: August 11, 2017
-  content: "I will serve on the program committee of <a href=\"http://pldi18.sigplan.org\">PLDI'18</a>."
-
-- date: August 11, 2017
-  content: "New paper at <a href=\"http://2017.splashcon.org/track/splash-2017-OOPSLA\">OOPSLA'17</a> on interactively resolving static analysis alarms."
-
-- date: April 25, 2017
-  content: "New workshop paper at <a href=\"https://sites.google.com/view/mapl2017/home\">MAPL'17</a> on combining logical and probabilistic reasoning in program analysis."
-
-- date: April 12, 2017
-  content: "I will serve on the program committee of <a href=\"http://staff.ustc.edu.cn/~xyfeng/APLAS17/\">APLAS'17</a>."
-
-- date: March 28, 2017
-  content: "<b>Outstanding Graduate Research Award</b> from College of Computing, Georgia Tech."
+    #- date: Dec 2, 2017
+    #  content: "Invited tutorial about our work on Maximum Satisfiability in Software Analysis at <a href=\"http://cavconference.org/2017/invited-tutorial-speakers/\">CAV'17</a> and <a href=\"https://popl18.sigplan.org/track/VMCAI-2018\">VMCAI'18</a>."
+    #
+    #- date: August 11, 2017
+    #  content: "I will serve on the program committee of <a href=\"http://pldi18.sigplan.org\">PLDI'18</a>."
+    #
+    #- date: August 11, 2017
+    #  content: "New paper at <a href=\"http://2017.splashcon.org/track/splash-2017-OOPSLA\">OOPSLA'17</a> on interactively resolving static analysis alarms."
+    #
+    #- date: April 25, 2017
+    #  content: "New workshop paper at <a href=\"https://sites.google.com/view/mapl2017/home\">MAPL'17</a> on combining logical and probabilistic reasoning in program analysis."
+    #
+    #- date: April 12, 2017
+    #  content: "I will serve on the program committee of <a href=\"http://staff.ustc.edu.cn/~xyfeng/APLAS17/\">APLAS'17</a>."
+    #
+    #- date: March 28, 2017
+    #  content: "<b>Outstanding Graduate Research Award</b> from College of Computing, Georgia Tech."
 
 #- date: May 2, 2017
 #  content: "Talk at <a href=\"https://www.cs.washington.edu\">UW</a>."
