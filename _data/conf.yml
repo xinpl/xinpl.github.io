@@ -10,8 +10,9 @@
 #  other:
 
 - title: "Fault Localization via Efficient Probabilistic Modeling of Program Semantics"
-  conference: "<b>ICSE 2022</b>: International Conference on Software Engineering (To Appear)"
+  conference: "<b>ICSE 2022</b>: International Conference on Software Engineering"
   authors: "Muhan Zeng#, Yiqian Wu#, Zhentao Ye, Yingfei Xiong, Xin Zhang, Lu Zhang (#: equal contribution)"
+  paper: /papers/icse22.pdf
  
 
 - title: "Accelerating Program Analyses in Datalog by Merging Library Facts"
