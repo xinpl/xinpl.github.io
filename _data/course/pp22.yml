@@ -19,29 +19,28 @@
   slides: /slides/courses/pp/22/lecture4.pdf
   supp:  "Chapter 8 of <a href=\"https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf\">Pattern Recognition and Machine Learning</a>"
 
-- date: Oct 5
+- date: Oct 6
   title: Approximate Inference
   slides: /slides/courses/pp/22/lecture5.pdf
   supp: "Chapter 10&11 of <a href=\"https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf\">Pattern Recognition and Machine Learning</a>"
       
-- date: Oct 12
+- date: Oct 13
   title: Semantics of Probabilistic Programming 
   slides: /slides/courses/pp/22/lecture6.pdf
   supp: "<a href=\"https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A7964205E44B5234A78C661192E294E1/9781108488518c1_1-42.pdf/semantics_of_probabilistic_programming_a_gentle_introduction.pdf\">Semantics of Probabilistic Programming: A Gentle Introduction</a>"
 
-- date: Oct 19
+- date: Oct 20
   title: Inference in Probabilistic Programming I 
   slides: /slides/courses/pp/22/lecture7.pdf
   supp: "Chapter 3 of <a href=\"https://arxiv.org/abs/1809.10756\">An Introduction to Probabilistic Programming</a>"
  
-   #
-    #
-    #- date: Nov 11
-    #  title: Mid-Term 
-    #  slides: /
-    #  supp: 
-    #
-   #
+
+- date: Oct 27
+  title: Mid-Term 
+  slides: /
+  supp: 
+
+
     #- date: Nov 25
     #  title: Inference in Probabilistic Programming II 
     #  slides: /slides/courses/pp/22/lecture9.pdf
