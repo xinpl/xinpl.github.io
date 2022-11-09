@@ -46,12 +46,12 @@
   slides: /slides/courses/pp/22/lecture8.pdf
   supp: "Chapter 4 of <a href=\"https://arxiv.org/abs/1809.10756\">An Introduction to Probabilistic Programming</a>"
     
-    #
-    #- date: Dec 2
-    #  title: Learning Algorithms 
-    #  slides: /slides/courses/pp/22/lecture10.pdf
-    #  supp: "Lecture 13-16 of <a href=\"https://xiongyingfei.github.io/SA/2020/main.htm\">Software Analysis</a>" 
-    #
+    
+- date: Nov 10
+  title: Learning Algorithms 
+  slides: /slides/courses/pp/22/lecture9.pdf
+  supp: "Lecture 13-16 of <a href=\"https://xiongyingfei.github.io/SA/2020/main.htm\">Software Analysis</a>" 
+    
     #- date: Dec 9
     #  title: Probabilistic Logic Programming 
     #  slides: /slides/courses/pp/22/lecture11.pdf
