@@ -62,6 +62,13 @@
   slides: /slides/courses/pp/22/lecture11.pdf
   supp: "Chapter 1 of \"Causality\" by Judea Pearl (access via PKU library service)"
 
+- date: Dec 1
+  title: Fairness
+  supp: "<a href=\"https://fairmlbook.org\">FAIRNESS AND MACHINE LEARNING: Limitations and Opportunities</a>"
+
+- date: Dec 8
+  title: Explainable AI
+  supp: "<a href=\"https://explainml-tutorial.github.io/aaai21\">AAAI 2021 Tutorial</a>"
     #- date: Dec 23
     #  title: FInal
     #  slides: /
