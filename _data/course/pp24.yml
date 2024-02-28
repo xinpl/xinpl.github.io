@@ -3,10 +3,10 @@
   slides: /slides/courses/pp/24/lecture1.pdf
   supp: "<a href=\"https://learning.acm.org/techtalks/machinelearning\">The Five Tribes of Machine Learning with Pedro Domingos</a>"
 
-    - date: Feb 29
-     title: Probabilistic Programming Using WebPPL
-     slides: /slides/courses/pp/24/lecture2.pdf
-     supp: "<a href=\"https://www.problang.org/chapters/app-06-intro-to-webppl.html\">Introduction to WebPPL</a>"
+- date: Feb 29
+  title: Probabilistic Programming Using WebPPL
+  slides: /slides/courses/pp/24/lecture2.pdf
+  supp: "<a href=\"https://www.problang.org/chapters/app-06-intro-to-webppl.html\">Introduction to WebPPL</a>"
        
     #- date: Sep 22
     #  title: Graphical Models 1 
