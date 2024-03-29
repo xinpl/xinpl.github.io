@@ -9,19 +9,29 @@
 #  code:
 #  other:
 
+- title: "Learning Abstraction Selection for Bayesian Program Analysis"
+  conference: "<b>OOPSLA 2024</b>: ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications. (To Appear)"
+  authors: "Yifan Zhang, Yuanfeng Shi, Xin Zhang"
+  paper: /papers/oopsla2024.pdf 
+
+- title: "A Probabilistic Delta Debugging Approach for Abstract Syntax Trees"
+  conference: "<b>ISSRE 2023</b>: International Symposium on Software Reliability Engineering."
+  authors: "Guancheng Wang, Yiqian Wu, Qihao Zhu, Yingfei Xiong, Xin Zhang, Lu Zhang"
+  paper: /papers/issre23.pdf 
+
 - title: "Fault Localization via Efficient Probabilistic Modeling of Program Semantics"
-  conference: "<b>ICSE 2022</b>: International Conference on Software Engineering"
+  conference: "<b>ICSE 2022</b>: International Conference on Software Engineering."
   authors: "Muhan Zeng#, Yiqian Wu#, Zhentao Ye, Yingfei Xiong, Xin Zhang, Lu Zhang (#: equal contribution)"
   paper: /papers/icse22.pdf
  
 
 - title: "Accelerating Program Analyses in Datalog by Merging Library Facts"
-  conference: "<b>SAS 2021</b>: Static Analysis Symposium"
+  conference: "<b>SAS 2021</b>: Static Analysis Symposium."
   authors: "Yifan Chen, Chenyang Yang, Xin Zhang, Yingfei Xiong, Hao Tang, Xiaoyin Wang, Lu Zhang"
   paper: /papers/sas21.pdf
 
 - title: "A Language for Counterfactual Generative Models"
-  conference: "<b>ICML 2021</b>: International Conference on Machine Learning"
+  conference: "<b>ICML 2021</b>: International Conference on Machine Learning."
   authors: "Zenna Tavares, James Koppel, Xin Zhang, Ria Das, Armando Solar-Lezama"
   paper: /papers/icml21.pdf
 
