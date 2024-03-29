@@ -12,7 +12,7 @@
 - title: "Learning Abstraction Selection for Bayesian Program Analysis"
   conference: "<b>OOPSLA 2024</b>: ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications. (To Appear)"
   authors: "Yifan Zhang, Yuanfeng Shi, Xin Zhang"
-  paper: /papers/oopsla2024.pdf 
+  paper: /papers/oopsla24.pdf 
 
 - title: "A Probabilistic Delta Debugging Approach for Abstract Syntax Trees"
   conference: "<b>ISSRE 2023</b>: International Symposium on Software Reliability Engineering."
