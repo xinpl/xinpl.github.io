@@ -28,12 +28,14 @@
   title: Semantics of Probabilistic Programming 
   slides: /slides/courses/pp/24/lecture6.pdf
   supp: "<a href=\"https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A7964205E44B5234A78C661192E294E1/9781108488518c1_1-42.pdf/semantics_of_probabilistic_programming_a_gentle_introduction.pdf\">Semantics of Probabilistic Programming: A Gentle Introduction</a>"
-    #
-    #- date: Oct 20
-    #  title: Inference in Probabilistic Programming I 
-    #  slides: /slides/courses/pp/22/lecture7.pdf
-    #  supp: "Chapter 3 of <a href=\"https://arxiv.org/abs/1809.10756\">An Introduction to Probabilistic Programming</a>"
-    # 
+
+- date: April 18
+  title: Inference in Probabilistic Programming I 
+  slides: /slides/courses/pp/24/lecture7.pdf
+  supp: "Chapter 3 of <a href=\"https://arxiv.org/abs/1809.10756\">An Introduction to Probabilistic Programming</a>"
+    
+    
+   # 
     #
     #- date: Oct 27
     #  title: Mid-Term 
