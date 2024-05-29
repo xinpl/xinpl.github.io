@@ -58,12 +58,12 @@
   title: Probabilistic Logic Programming 
   slides: /slides/courses/pp/24/lecture10.pdf
   supp: "<a href=\"https://cacm.acm.org/magazines/2015/7/188745-unifying-logic-and-probability/fulltext\">Unifying Logic and Probability</a>"
-    #
-    #- date: Nov 24
-    #  title: Causal Inference
-    #  slides: /slides/courses/pp/22/lecture11.pdf
-    #  supp: "Chapter 1 of \"Causality\" by Judea Pearl (access via PKU library service)"
-    #
+
+- date: May 30
+  title: Causal Inference
+  slides: /slides/courses/pp/24/lecture11.pdf
+  supp: "Chapter 1 of \"Causality\" by Judea Pearl (access via PKU library service)"
+
     #- date: Dec 1
     #  title: Fairness
     #  supp: "<a href=\"https://fairmlbook.org\">FAIRNESS AND MACHINE LEARNING: Limitations and Opportunities</a>"
