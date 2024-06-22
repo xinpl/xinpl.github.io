@@ -8,6 +8,10 @@
 #  poster:
 #  code:
 #  other:
+- title: "Scaling Abstraction Refinement for Program Analyses in Datalog Using Graph Neural Networks"
+  conference: "<b>OOPSLA 2024</b>: ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications. (To Appear)"
+  authors: "Zhenyu Yan, Xin Zhang, Peng Di"
+
 
 - title: "Learning Abstraction Selection for Bayesian Program Analysis"
   conference: "<b>OOPSLA 2024</b>: ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications. (To Appear)"

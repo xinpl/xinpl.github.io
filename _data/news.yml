@@ -8,6 +8,8 @@
 #          <li>May 2 at <a href=\"https://www.cs.washington.edu\">UW</a>.</li>
 #          </ul>
 #          "
+- date: June 2024
+  content: Two new papers at OOPSLA'24. One on how to combine graph neural networks and constrait solving to scale precise program analyses. The other on how to find good representations for program analyses based on Bayesian learning.
 
 - date: March 2022
   content: I have two openings for Ph.D. students this year. If you're interested in topics related to program analysis, program synthesis, and reliable machine learning, please apply to our program and contact me!
