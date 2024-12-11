@@ -8,15 +8,20 @@
 #  poster:
 #  code:
 #  other:
+- title: "ReX: A Framework for Incorporating Temporal Information in Model-Agnostic Local Explanation Techniques"
+  conference: "<b>AAAI 2025</b>: Annual AAAI Conference on Artificial Intelligence (To Appear)"
+  authors: "Junhao Liu, Xin Zhang"
+
 - title: "Scaling Abstraction Refinement for Program Analyses in Datalog Using Graph Neural Networks"
-  conference: "<b>OOPSLA 2024</b>: ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications. (To Appear)"
+  conference: "<b>OOPSLA 2024</b>: ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications."
   authors: "Zhenyu Yan, Xin Zhang, Peng Di"
+  paper: /papers/oopsla24b.pdf
 
 
 - title: "Learning Abstraction Selection for Bayesian Program Analysis"
-  conference: "<b>OOPSLA 2024</b>: ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications. (To Appear)"
+  conference: "<b>OOPSLA 2024</b>: ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications."
   authors: "Yifan Zhang, Yuanfeng Shi, Xin Zhang"
-  paper: /papers/oopsla24.pdf 
+  paper: /papers/oopsla24a.pdf 
 
 - title: "A Probabilistic Delta Debugging Approach for Abstract Syntax Trees"
   conference: "<b>ISSRE 2023</b>: International Symposium on Software Reliability Engineering."

@@ -8,6 +8,9 @@
 #          <li>May 2 at <a href=\"https://www.cs.washington.edu\">UW</a>.</li>
 #          </ul>
 #          "
+- date: Dec 2024
+  content: New paper on adding temporal information to machine learning model explanations at AAAI'25.
+
 - date: June 2024
   content: Two new papers at OOPSLA'24. One on how to combine graph neural networks and constrait solving to scale precise program analyses. The other on how to find good representations for program analyses based on Bayesian learning.
 
