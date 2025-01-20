@@ -8,8 +8,13 @@
 #  poster:
 #  code:
 #  other:
+
+- title: "Combining Formal and Informal Information in Bayesian Program Analysis via Soft Evidences"
+  conference: "<b>OOPSLA 2025</b>: ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications. (To Appear)"
+  authors: "Tianchi Li, Xin Zhang"
+
 - title: "ReX: A Framework for Incorporating Temporal Information in Model-Agnostic Local Explanation Techniques"
-  conference: "<b>AAAI 2025</b>: Annual AAAI Conference on Artificial Intelligence (To Appear)"
+  conference: "<b>AAAI 2025</b>: Annual AAAI Conference on Artificial Intelligence (To Appear, <font color='red'>Oral, 4.68%</font>)"
   authors: "Junhao Liu, Xin Zhang"
 
 - title: "Scaling Abstraction Refinement for Program Analyses in Datalog Using Graph Neural Networks"
