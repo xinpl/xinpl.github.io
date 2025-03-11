@@ -12,12 +12,12 @@
   title: Graphical Models 1 
   slides: /slides/courses/pp/25/lecture3.pdf
   supp:  "Chapter 8 of <a href=\"https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf\">Pattern Recognition and Machine Learning</a>"
-    #    
-    #    
-    #- date: Mar 14
-    #  title: Graphical Models 2
-    #  slides: /slides/courses/pp/24/lecture4.pdf
-    #  supp:  "Chapter 8 of <a href=\"https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf\">Pattern Recognition and Machine Learning</a>"
+    
+    
+- date: Mar 11
+  title: Graphical Models 2
+  slides: /slides/courses/pp/25/lecture4.pdf
+  supp:  "Chapter 8 of <a href=\"https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf\">Pattern Recognition and Machine Learning</a>"
     #
     #- date: Mar 21
     #  title: Approximate Inference
