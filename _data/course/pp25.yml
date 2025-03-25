@@ -23,11 +23,14 @@
   title: Approximate Inference
   slides: /slides/courses/pp/25/lecture5.pdf
   supp: "Chapter 10&11 of <a href=\"https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf\">Pattern Recognition and Machine Learning</a>"
-    #          
-    #- date: Mar 28
-    #  title: Semantics of Probabilistic Programming 
-    #  slides: /slides/courses/pp/24/lecture6.pdf
-    #  supp: "<a href=\"https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A7964205E44B5234A78C661192E294E1/9781108488518c1_1-42.pdf/semantics_of_probabilistic_programming_a_gentle_introduction.pdf\">Semantics of Probabilistic Programming: A Gentle Introduction</a>"
+              
+  - date: Mar 25
+    title: Semantics of Probabilistic Programming 
+    slides: /slides/courses/pp/25/lecture6.pdf
+    supp: "<a href=\"https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A7964205E44B5234A78C661192E294E1/9781108488518c1_1-42.pdf/semantics_of_probabilistic_programming_a_gentle_introduction.pdf\">Semantics of Probabilistic Programming: A Gentle Introduction</a>"
+
+- date: Apri 1
+  title: Midterm
     #
     #- date: April 18
     #  title: Inference in Probabilistic Programming I 
