@@ -33,12 +33,12 @@
   title: Midterm
   slides: /
   supp: 
-    #
-    #- date: April 18
-    #  title: Inference in Probabilistic Programming I 
-    #  slides: /slides/courses/pp/24/lecture7.pdf
-    #  supp: "Chapter 3 of <a href=\"https://arxiv.org/abs/1809.10756\">An Introduction to Probabilistic Programming</a>"
-    #    
+
+- date: April 7
+  title: Inference in Probabilistic Programming I 
+  slides: /slides/courses/pp/24/lecture7.pdf
+  supp: "Chapter 3 of <a href=\"https://arxiv.org/abs/1809.10756\">An Introduction to Probabilistic Programming</a>"
+    
     #    
     #   # 
     #    #
