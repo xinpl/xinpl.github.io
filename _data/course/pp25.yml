@@ -73,7 +73,7 @@
     #    #  title: Fairness
     #    #  supp: "<a href=\"https://fairmlbook.org\">FAIRNESS AND MACHINE LEARNING: Limitations and Opportunities</a>"
     #    #
-    #- date: Jue 6
-    #  title: Explainable AI
-    #  supp: "<a href=\"https://explainml-tutorial.github.io/aaai21\">AAAI 2021 Tutorial</a>"
-    #  slides: https://explainml-tutorial.github.io/assets/files/explainml-tutorial-aaai21.pdf
+- date: May 13
+  title: Explainable AI
+  supp: "<a href=\"https://explainml-tutorial.github.io/aaai21\">AAAI 2021 Tutorial</a>"
+  slides: https://explainml-tutorial.github.io/assets/files/explainml-tutorial-aaai21.pdf
