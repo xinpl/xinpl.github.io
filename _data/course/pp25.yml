@@ -77,3 +77,8 @@
   title: Explainable AI
   supp: "<a href=\"https://explainml-tutorial.github.io/aaai21\">AAAI 2021 Tutorial</a>"
   slides: https://explainml-tutorial.github.io/assets/files/explainml-tutorial-aaai21.pdf
+
+- date: May 20
+  title: Probabilistic Programming with Deep Learning
+  supp: "<a href=\"https://www.neurosymbolic.org\">Understanding the World Through Code</a>"
+  slides: /slides/courses/pp/25/lecture13.pdf
