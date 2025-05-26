@@ -82,3 +82,9 @@
   title: Probabilistic Programming with Deep Learning
   supp: "<a href=\"https://www.neurosymbolic.org\">Understanding the World Through Code</a>"
   slides: /slides/courses/pp/25/lecture13.pdf
+
+- date: May 27
+  title: LLMs with Language Control
+  supp: "<a href=\"https://lmql.ai\">LMQL</a>"
+  slides: /slides/courses/pp/25/lecture14.pdf
+
