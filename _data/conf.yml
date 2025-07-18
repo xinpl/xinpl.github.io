@@ -9,6 +9,10 @@
 #  code:
 #  other:
 
+- title: "On Abstraction Refinement for Bayesian Program Analysis"
+  conference: "<b>OOPSLA 2025</b>: ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications. (To Appear)"
+  authors: "Yuanfeng Shi, Yifan Zhang, Xin Zhang"
+
 - title: "Combining Formal and Informal Information in Bayesian Program Analysis via Soft Evidences"
   conference: "<b>OOPSLA 2025</b>: ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications. (To Appear)"
   authors: "Tianchi Li, Xin Zhang"
