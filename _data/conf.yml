@@ -9,6 +9,10 @@
 #  code:
 #  other:
 
+- title: "Belief Propagation with Local Structure and Its Applications in Program Analysis"
+  conference: "<b>ASE 2025</b>: IEEE/ACM International Conference on Automated Software Engineering. (To Appear)"
+  authors: "Yiqian Wu, Yifan Chen, Yingfei Xiong, Xin Zhang"
+
 - title: "On Abstraction Refinement for Bayesian Program Analysis"
   conference: "<b>OOPSLA 2025</b>: ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications. (To Appear)"
   authors: "Yuanfeng Shi, Yifan Zhang, Xin Zhang"
@@ -18,8 +22,9 @@
   authors: "Tianchi Li, Xin Zhang"
 
 - title: "ReX: A Framework for Incorporating Temporal Information in Model-Agnostic Local Explanation Techniques"
-  conference: "<b>AAAI 2025</b>: Annual AAAI Conference on Artificial Intelligence (To Appear, <font color='red'>Oral, 4.68%</font>)"
+  conference: "<b>AAAI 2025</b>: Annual AAAI Conference on Artificial Intelligence (<font color='red'>Oral, 4.68%</font>)"
   authors: "Junhao Liu, Xin Zhang"
+  paper: /papers/aaai25.pdf
 
 - title: "Scaling Abstraction Refinement for Program Analyses in Datalog Using Graph Neural Networks"
   conference: "<b>OOPSLA 2024</b>: ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications."
