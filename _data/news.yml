@@ -8,6 +8,19 @@
 #          <li>May 2 at <a href=\"https://www.cs.washington.edu\">UW</a>.</li>
 #          </ul>
 #          "
+
+- date: Oct 2025
+  content: Two papers conditionally accepted at POPL'26.
+
+- date: Oct 2025
+  content: Two new papers at OOPSLA'25. One on how to combine informal information and formal information in program analysis. The other on how to apply CEGAR to find good representations for Bayesian program analyses.
+
+- date: Aug 2025
+  content: New paper at ASE'25 on how to exploit logical structures in constraints to accelerate probabilistic inference. 
+
+- date: June 2025
+  content: New TSE paper on how to apply Bayesin reasoning to fault localization.
+
 - date: Dec 2024
   content: New paper on adding temporal information to machine learning model explanations at AAAI'25.
 
