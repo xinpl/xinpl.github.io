@@ -12,12 +12,12 @@
 - title: "Fuzzing Guided by Bayesian Program Analysis"
   conference: "<b>POPL 2026</b>: ACM SIGPLAN Symposium on Principles of Programming Languages."
   authors: "Yifan Zhang, Xin Zhang"
-  papers: /papers/popl26a.pdf
+  paper: /papers/popl26a.pdf
 
 - title: "Accelerating Syntax-Guided Program Synthesis by Optimizing Domain-Specific Languages"
   conference: "<b>POPL 2026</b>: ACM SIGPLAN Symposium on Principles of Programming Languages."
   authors: "Zhentao Ye, Ruyi Ji, Yingfei Xiong, Xin Zhang"
-  papers: /papers/popl26b.pdf
+  paper: /papers/popl26b.pdf
 
 - title: "Belief Propagation with Local Structure and Its Applications in Program Analysis"
   conference: "<b>ASE 2025</b>: IEEE/ACM International Conference on Automated Software Engineering."
