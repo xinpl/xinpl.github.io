@@ -22,7 +22,6 @@
 - title: "Belief Propagation with Local Structure and Its Applications in Program Analysis"
   conference: "<b>ASE 2025</b>: IEEE/ACM International Conference on Automated Software Engineering."
   authors: "Yiqian Wu, Yifan Chen, Yingfei Xiong, Xin Zhang"
-  paper: /papers/ase25.pdf
 
 - title: "On Abstraction Refinement for Bayesian Program Analysis"
   conference: "<b>OOPSLA 2025</b>: ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications."
