@@ -5,59 +5,17 @@ layout: default
 
 <div class="row">
 	<div class="page-header" class="col-lg-12">
-		<h2>In Submission</h2>
+		<h2>Conference</h2>
 	</div>
 	<div class="col-lg-12">
-		{% for draft in site.data.drafts %}
-		<div class="panel panel-success">
-			<div class="panel-heading">
-				{{ draft.title }}	
-			</div>
-			<div class="panel-body">
-				{{draft.authors}}</br>
-				{% if draft.arxiv != nil %}
-				[<a href="{{draft.arxiv}}">arxiv</a>]
-				{% endif %}
-				{% if draft.paper != nil %}
-				[<a href="{{site.baseurl}}{{ draft.paper }}">PDF</a>]
-				{% endif %}
-				{% if draft.long != nil %}
-				[<a href="{{site.baseurl}}{{draft.long}}">Long Version</a>]	
-				{% endif %}
-				{% if draft.slides != nil %}
-				[<a href="{{site.baseurl}}{{draft.slides}}">Slides</a>]
-				{% endif %}
-				{% if draft.poster != nil %}
-				[<a href="{{site.baseurl}}{{draft.poster}}">Poster</a>]
-				{% endif %}
-				{% if draft.code != nil %}
-				[ {{draft.code}}]
-				{% endif %}
-				{% if draft.other != nil %}
-				{{draft.other}}
-				{% endif %}
-				{% if draft.howto != nil %}
-				[<a href="{{site.baseurl}}{{draft.howto}}">How to Run</a>]
-				{% endif %}
-			</div>
-		</div>
-		{% endfor %}
-	</div>
-</div>
-
-<div class="row">
-	<div class="page-header" class="col-lg-12">
-		<h2>Journal</h2>
-	</div>
-	<div class="col-lg-12">
-		{% for pub in site.data.journals %}
+		{% for pub in site.data.conf %}
 		<div class="panel panel-success">
 			<div class="panel-heading">
 				{{ pub.title }}	
 			</div>
 			<div class="panel-body">
 				{{pub.authors}}</br>
-				{{pub.journal}}</br>
+				{{pub.conference}}</br>
 				{% if pub.award != nil %}
 				<font color="red"><b>	{{pub.award}} </b></font></br>
 				{% endif %}
@@ -88,21 +46,19 @@ layout: default
 	</div>
 </div>
 
-
-
 <div class="row">
 	<div class="page-header" class="col-lg-12">
-		<h2>Conference</h2>
+		<h2>Journal</h2>
 	</div>
 	<div class="col-lg-12">
-		{% for pub in site.data.conf %}
+		{% for pub in site.data.journals %}
 		<div class="panel panel-success">
 			<div class="panel-heading">
 				{{ pub.title }}	
 			</div>
 			<div class="panel-body">
 				{{pub.authors}}</br>
-				{{pub.conference}}</br>
+				{{pub.journal}}</br>
 				{% if pub.award != nil %}
 				<font color="red"><b>	{{pub.award}} </b></font></br>
 				{% endif %}
@@ -169,6 +125,48 @@ layout: default
 				{% endif %}
 				{% if pub.howto != nil %}
 				[<a href="{{site.baseurl}}{{pub.howto}}">How to Run</a>]
+				{% endif %}
+			</div>
+		</div>
+		{% endfor %}
+	</div>
+</div>
+
+<div class="row">
+	<div class="page-header" class="col-lg-12">
+		<h2>In Submission</h2>
+	</div>
+	<div class="col-lg-12">
+		{% for draft in site.data.drafts %}
+		<div class="panel panel-success">
+			<div class="panel-heading">
+				{{ draft.title }}	
+			</div>
+			<div class="panel-body">
+				{{draft.authors}}</br>
+				{% if draft.arxiv != nil %}
+				[<a href="{{draft.arxiv}}">arxiv</a>]
+				{% endif %}
+				{% if draft.paper != nil %}
+				[<a href="{{site.baseurl}}{{ draft.paper }}">PDF</a>]
+				{% endif %}
+				{% if draft.long != nil %}
+				[<a href="{{site.baseurl}}{{draft.long}}">Long Version</a>]	
+				{% endif %}
+				{% if draft.slides != nil %}
+				[<a href="{{site.baseurl}}{{draft.slides}}">Slides</a>]
+				{% endif %}
+				{% if draft.poster != nil %}
+				[<a href="{{site.baseurl}}{{draft.poster}}">Poster</a>]
+				{% endif %}
+				{% if draft.code != nil %}
+				[ {{draft.code}}]
+				{% endif %}
+				{% if draft.other != nil %}
+				{{draft.other}}
+				{% endif %}
+				{% if draft.howto != nil %}
+				[<a href="{{site.baseurl}}{{draft.howto}}">How to Run</a>]
 				{% endif %}
 			</div>
 		</div>
