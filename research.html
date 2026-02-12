@@ -12,10 +12,27 @@ layout: default
 		<p>
 		While I am broadly interested in topics related to programming languages (<b>PL</b>) and software engineering (<b>SE</b>),
 		my main focus is on a new paradigm of program analysis that incorporates Bayesian reasoning.
-		My research spans applications, languages, algorithms, and theories of Bayesian program analysis.
+		I have been working on it since my Ph.D study (see my <a href="{{site.baseurl}}/papers/thesis.pdf">thesis</a>), and my research spans applications, languages, algorithms, and theories of Bayesian program analysis.
 		My other research interests include optimizing domain-specific languages for program synthesis, 
 	    combining program analysis and large language models, and artificial intelligence explainability.</p>
 	</div>
+</div>
+
+<div class="row">
+	<div class="page-header" class="col-lg-12">
+		<h3>Bayesian Program Analysis</h2>
+	</div>
+	<div class="col-lg-12">
+		<img src="{{site.baseurl}}/images/bayeAnalysis.png" class="proj-pic"/>
+		<p>
+			Bayesian program analysis incorporates probabilistic reasoning into program analysis, which allows handling uncertainties. This enables existing logic-based program analysis to quantify the confidence of its produced alarms, which can be ranked with the confidence. Moreover, it can enable program analysis to update the confidence by learning from information such as user feedback, informal information, and test runs. Around this paradigm, my group has developed multiple applications under it, and new algorithms and theories to support it, including:
+			<ul>
+				<li><b>Applications: </b> We have built program analysis augmented with uncertain information [<a href="{{site.baseurl}}/papers/oopsla25a.pdf">OOPSLA'25a</a>], fuzzing techniques guided by Bayesian program analysis [<a href="{{site.baseurl}}/papers/popl26a.pdf">POPL'26a</a>], and probabilistic fault localization [<a href="{{site.baseurl}}/papers/tse25.pdf">TSE'25</a>].</li>
+				<li><b>Abstraction Selection: </b> Program abstraction controls the scalability and precision of program analysis by selecting appropriate levels of detail and representation. In the Bayesian setting, it also controls the learning ability of the system, which adds another layer of complexity. We have developed a data-driven offline learning approach [<a href="{{site.baseurl}}/papers/oopsla24a.pdf">OOPSLA'24a</a>] and a online search approach that is inspired by the counter-example guided abstraction refinement technique [<a href="{{site.baseurl}}/papers/oopsla25b.pdf">OOPSLA'25b</a>]. </li>
+				<li><b>Inference Algorithm: </b> To Support efficient inference and learning, we have developed a novel probabilistic inference algorithm that exploits local structures in program analysis [<a href="{{site.baseurl}}/papers/ase25.pdf">ASE'25</a>]. We have also developed a GPU-based pararell inference algorithm, which is currently under submission. </li>
+				<li><b>Theory: </b> We have developed a new theory which is a probabilistic extension to the famous abstract interpretation framework. It assigns confidence to analysis results and is currently under submission.</li>
+		</p>
+		</div>
 </div>
 
 <!-- <div class="row">
