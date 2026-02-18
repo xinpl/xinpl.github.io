@@ -9,6 +9,11 @@
 #  code:
 #  other:
 
+- title: " Beer: Interactive Alarm Resolution in Bayesian Program Analysis via Exploration-Exploitation"
+  conference: "<b>OOPSLA 2026</b>: ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications. (To Appear)"
+  authors: "Haoran Lin, Zhenyu Yan, Xin Zhang"
+  # paper: /papers/oopsla26.pdf
+
 - title: "Fuzzing Guided by Bayesian Program Analysis"
   conference: "<b>POPL 2026</b>: ACM SIGPLAN Symposium on Principles of Programming Languages."
   authors: "Yifan Zhang, Xin Zhang"

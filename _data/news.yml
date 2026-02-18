@@ -9,6 +9,9 @@
 #          </ul>
 #          "
 
+- date: Feb 2026
+  content: New paper at OOPSLA'26 on incorporating the exploration-exploitation scheme in Bayesian program analysis to improve the learning effectiveness.
+
 - date: Oct 2025
   content: Two papers conditionally accepted at POPL'26.
 
