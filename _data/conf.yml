@@ -38,6 +38,11 @@
   authors: "Tianchi Li, Xin Zhang"
   paper: /papers/oopsla25a.pdf
 
+- title: "SmartFL: Semantics Based Probabilistic Fault Localization"
+  journal: "<b>TSE 2025</b>: Transactions on Software Engineering."
+  authors: "Yiqian Wu, Yujie Liu, Yi Yin, Muhan Zeng, Zhentao Ye, Xin Zhang, Yingfei Xiong, Lu Zhang"
+  paper: /papers/tse25.pdf
+
 - title: "ReX: A Framework for Incorporating Temporal Information in Model-Agnostic Local Explanation Techniques"
   conference: "<b>AAAI 2025</b>: Annual AAAI Conference on Artificial Intelligence. (<font color='red'>Oral, 4.68%</font>)"
   authors: "Junhao Liu, Xin Zhang"
