@@ -39,7 +39,7 @@
   paper: /papers/oopsla25a.pdf
 
 - title: "SmartFL: Semantics Based Probabilistic Fault Localization"
-  journal: "<b>TSE 2025</b>: Transactions on Software Engineering."
+  conference: "<b>TSE 2025</b>: Transactions on Software Engineering."
   authors: "Yiqian Wu, Yujie Liu, Yi Yin, Muhan Zeng, Zhentao Ye, Xin Zhang, Yingfei Xiong, Lu Zhang"
   paper: /papers/tse25.pdf
 
