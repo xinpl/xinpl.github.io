@@ -9,6 +9,9 @@
 #          </ul>
 #          "
 
+- date: March 2026
+  content: New paper conditionally accepted at PLDI'26.
+
 - date: Feb 2026
   content: New paper at OOPSLA'26 on incorporating the exploration-exploitation scheme in Bayesian program analysis to improve the learning effectiveness.
 
