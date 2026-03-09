@@ -10,7 +10,7 @@
 #  other:
 
 - title: "Abstract Interpretation with Confidence"
-  conference: "<b>PLDI 2026<b/>: ACM SIGPLAN Conference on Programming Language Design and Implementation. (Conditional Accept)"
+  conference: "<b>PLDI 2026</b>: ACM SIGPLAN Conference on Programming Language Design and Implementation. (Conditional Accept)"
   authors: "Yuanfeng Shi, Ziyue Jin, Xin Zhang"
 
 - title: "Beer: Interactive Alarm Resolution in Bayesian Program Analysis via Exploration-Exploitation"
