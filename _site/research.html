@@ -102,7 +102,7 @@ ript>
 		my main focus is on a new paradigm of program analysis that incorporates Bayesian reasoning.
 		I have been working on it since my Ph.D study (see my <a href="/papers/thesis.pdf">thesis</a>), and my research spans applications, languages, algorithms, and theories of Bayesian program analysis.
 		My other research interests include optimizing domain-specific languages for program synthesis, 
-	    combining program analysis and large language models, and artificial intelligence explainability.</p>
+	     artificial intelligence explainability, abstraction selection for conventional program analyses.</p>
 	</div>
 </div>
 
@@ -113,15 +113,41 @@ ript>
 	<div class="col-lg-12">
 		<img src="/images/bayeAnalysis.png" class="proj-pic"/>
 		<p>
-			Bayesian program analysis incorporates probabilistic reasoning into program analysis, which allows handling uncertainties. This enables existing logic-based program analysis to quantify the confidence of its produced alarms, which can be ranked with the confidence. Moreover, it can enable program analysis to update the confidence by learning from information such as user feedback, informal information, and test runs. Around this paradigm, my group has developed multiple applications under it, and new algorithms and theories to support it, including:
+			Bayesian program analysis incorporates probabilistic reasoning into program analysis, which allows handling uncertainties. This enables existing logic-based program analysis to quantify the confidence of its produced alarms, which can be ranked with the confidence. More importantly, it can enable program analysis to update the confidence by learning from information such as user feedback, informal information, and test runs. Around this paradigm, my group has developed multiple applications under it, and new algorithms and theories to support it, including:
 			<ul>
 				<li><b>Applications: </b> We have built program analysis augmented with uncertain information [<a href="/papers/oopsla25a.pdf">OOPSLA'25a</a>], fuzzing techniques guided by Bayesian program analysis [<a href="/papers/popl26a.pdf">POPL'26a</a>], and probabilistic fault localization [<a href="/papers/tse25.pdf">TSE'25</a>].</li>
 				<li><b>Abstraction Selection: </b> Program abstraction controls the scalability and precision of program analysis by selecting appropriate levels of detail and representation. In the Bayesian setting, it also controls the learning ability of the system, which adds another layer of complexity. We have developed a data-driven offline learning approach [<a href="/papers/oopsla24a.pdf">OOPSLA'24a</a>] and a online search approach that is inspired by the counter-example guided abstraction refinement technique [<a href="/papers/oopsla25b.pdf">OOPSLA'25b</a>]. </li>
 				<li><b>Inference Algorithm: </b> To Support efficient inference and learning, we have developed a novel probabilistic inference algorithm that exploits local structures in program analysis [<a href="/papers/ase25.pdf">ASE'25</a>]. We have also developed a GPU-based pararell inference algorithm, which is currently under submission. </li>
-				<li><b>Theory: </b> We have developed a new theory which is a probabilistic extension to the famous abstract interpretation framework. It assigns confidence to analysis results and is currently under submission.</li>
+				<li><b>Theory: </b> We have developed a new theory which is a probabilistic extension to the famous abstract interpretation framework. It assigns confidence to analysis results and is currently conditionally accepted to PLDI'26.</li>
 		</p>
 		</div>
 </div>
+
+<div class="row">
+	<div class="page-header" class="col-lg-12">
+		<h3>Optimizing DSLs for Accelerating Program Synthesis</h2>
+	</div>
+	<div class="col-lg-12">
+		<img src="/images/amaze.png" class="proj-pic"/>
+		<p>
+			This project aims to accelerate syntax-guided program synthesis by automatically optimizing Domain-Specific Languages (DSLs) through a novel framework called AMaze [<a href="/papers/popl26b.pdf">POPL'26b</a>]. Because manually designing optimal DSLs is complex and often limits performance, AMaze iteratively refines them by identifying key program fragments that impact synthesis time. By leveraging a combination of dynamic programming and machine learning, the system accurately estimates synthesis costs, bypassing the need for computationally expensive direct execution. Evaluated across multiple domains on state-of-the-art synthesizers—including DryadSynth, Duet, Polygen, and EUsolver—AMaze successfully preserves language expressiveness while delivering up to a 4.35× speedup. We're currently working on extending AMaze to optimize DSLs for program generation with large langauge models.
+		</p>
+		</div>
+</div>
+
+
+<div class="row">
+	<div class="page-header" class="col-lg-12">
+		<h3>Data-Driven Approaches for Abstract Selection in Traditional Program Analyses</h2>
+	</div>
+	<div class="col-lg-12">
+		<img src="/images/abs.png" class="proj-pic"/>
+		<p>
+			This project aims to optimize abstraction selection in conventional logic-based program analysis by overcoming severe trade-offs between precision and scalability. To enable fine-grained sensitivity tuning in purely logical frameworks like Datalog, the project introduces a data-driven technique that automatically learns optimal merging strategies for library code, significantly accelerating analysis while rigorously minimizing precision loss [<a href="/papers/sas21.pdf">SAS'21</a>]. Furthermore, the project tackles the inherent scalability bottlenecks of counterexample-guided abstraction refinement (CEGAR) by integrating Graph Neural Networks (GNNs) [<a href="/papers/oopsla24b.pdf">OOPSLA'24b</a>]. By utilizing GNNs to prune low-quality abstractions from the topological structures of derivation graphs, this framework significantly reduces the workload of the underlying constraint solvers, expanding the horizon of large codebases that can be practically and rigorously verified.
+		</p>
+		</div>
+</div>
+
 
 <!-- <div class="row">
 	<div class="page-header" class="col-lg-12">
