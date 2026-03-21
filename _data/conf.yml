@@ -64,6 +64,11 @@
   authors: "Yifan Zhang, Yuanfeng Shi, Xin Zhang*"
   paper: /papers/oopsla24a.pdf 
 
+- title: "贝叶斯程序分析"
+  conference: "电子学报 2024"
+  authors: "张昕, 王冠成, 吴宜谦, 陈逸凡, 李天驰, 张羿凡, 熊英飞*"
+
+
 - title: "A Probabilistic Delta Debugging Approach for Abstract Syntax Trees"
   conference: "<b>ISSRE 2023</b>: International Symposium on Software Reliability Engineering."
   authors: "Guancheng Wang, Yiqian Wu, Qihao Zhu, Yingfei Xiong*, Xin Zhang, Lu Zhang"
