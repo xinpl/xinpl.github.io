@@ -10,6 +10,9 @@
 #          "
 
 - date: March 2026
+  content: New paper to appear in TOPLAS about applying LLMs to generate loop invariants with auto-formalization.
+
+- date: March 2026
   content: New paper conditionally accepted at PLDI'26.
 
 - date: Feb 2026
@@ -33,42 +36,42 @@
 - date: June 2024
   content: Two new papers at OOPSLA'24. One on how to combine graph neural networks and constraint solving to scale precise program analyses. The other on how to find good representations for program analyses based on Bayesian learning.
 
-- date: March 2022
-  content: I have two openings for Ph.D. students this year. If you're interested in topics related to program analysis, program synthesis, and reliable machine learning, please apply to our program and contact me!
-
-- date: Feb 2022
-  content: New paper on applying Bayesian methods to semantics-based fault localization at ICSE'22.
-
-- date: July 2021
-  content: New paper on accelerating static analyses at SAS'21. 
-
-- date: May 2021
-  content: New paper on supporting causal inference in probabilistic programming at ICML'21.
-
-  #- date: Sep 13, 2020
-  #  content: I am actively <b>recruiting</b> motivated Ph.D. students! If you're interested, please apply to our graduate program. If you're an undergraduate at Peking who wants to try out research, feel free to contact me!
-
-- date: Sep 1, 2020
-  content: "I will serve on the program committees of <a href=\"https://pldi21.sigplan.org\">PLDI'21</a> and <a href=\"https://www.ijcai.org/future_conferences\">IJCAI'21</a>. Please consider submitting to them!"
-
-#- date: Feb 11, 2020
-#  content: "Tentative travel plan for the spring: <ul><li>University of Maryland</li> <li>University of Michigan</li> <li>McGill University</li> <li>National University of Singapore</li> <li>Carnegie Mellon University</li></ul>"
-
-- date: Oct 1, 2019
-  content: "New paper at <a href=\"https://conf.researchr.org/track/splash-2019/splash-2019-oopsla\">OOPSLA'19</a> on scalable verification of algorithmic fairness."
-
-- date: Aug 15, 2019
-  content: "I will serve on the external review committee of <a href=\"https://conf.researchr.org/home/pldi-2020\">PLDI'20</a>. Please consider submitting."
-
-- date: Feb 15, 2019
-  content: "I will serve on the program committee of <a href=\"http://staticanalysis.org/sas2019/\">SAS'19</a>. Please consider submitting."
-
-- date: Sep 4, 2018
-  content: "New <a href=\"https://arxiv.org/abs/1802.07384\">paper</a> on providing actional explanations to judgments produced by a neural network at <a href=\"https://nips.cc/\">NIPS'18</a>."
-
-- date: Aug 8, 2018
-  content: "New poster about conditioning on distributional properties in probablistic programming at <a href=\"https://probprog.cc/\">PROBPROG'18</a>."
-
+#- date: March 2022
+#  content: I have two openings for Ph.D. students this year. If you're interested in topics related to program analysis, program synthesis, and reliable machine learning, please apply to our program and contact me!
+#
+#- date: Feb 2022
+#  content: New paper on applying Bayesian methods to semantics-based fault localization at ICSE'22.
+#
+#- date: July 2021
+#  content: New paper on accelerating static analyses at SAS'21. 
+#
+#- date: May 2021
+#  content: New paper on supporting causal inference in probabilistic programming at ICML'21.
+#
+#  #- date: Sep 13, 2020
+#  #  content: I am actively <b>recruiting</b> motivated Ph.D. students! If you're interested, please apply to our graduate program. If you're an undergraduate at Peking who wants to try out research, feel free to contact me!
+#
+#- date: Sep 1, 2020
+#  content: "I will serve on the program committees of <a href=\"https://pldi21.sigplan.org\">PLDI'21</a> and <a href=\"https://www.ijcai.org/future_conferences\">IJCAI'21</a>. Please consider submitting to them!"
+#
+##- date: Feb 11, 2020
+##  content: "Tentative travel plan for the spring: <ul><li>University of Maryland</li> <li>University of Michigan</li> <li>McGill University</li> <li>National University of Singapore</li> <li>Carnegie Mellon University</li></ul>"
+#
+#- date: Oct 1, 2019
+#  content: "New paper at <a href=\"https://conf.researchr.org/track/splash-2019/splash-2019-oopsla\">OOPSLA'19</a> on scalable verification of algorithmic fairness."
+#
+#- date: Aug 15, 2019
+#  content: "I will serve on the external review committee of <a href=\"https://conf.researchr.org/home/pldi-2020\">PLDI'20</a>. Please consider submitting."
+#
+#- date: Feb 15, 2019
+#  content: "I will serve on the program committee of <a href=\"http://staticanalysis.org/sas2019/\">SAS'19</a>. Please consider submitting."
+#
+#- date: Sep 4, 2018
+#  content: "New <a href=\"https://arxiv.org/abs/1802.07384\">paper</a> on providing actional explanations to judgments produced by a neural network at <a href=\"https://nips.cc/\">NIPS'18</a>."
+#
+#- date: Aug 8, 2018
+#  content: "New poster about conditioning on distributional properties in probablistic programming at <a href=\"https://probprog.cc/\">PROBPROG'18</a>."
+#
     #- date: Dec 2, 2017
     #  content: "Invited tutorial about our work on Maximum Satisfiability in Software Analysis at <a href=\"http://cavconference.org/2017/invited-tutorial-speakers/\">CAV'17</a> and <a href=\"https://popl18.sigplan.org/track/VMCAI-2018\">VMCAI'18</a>."
     #

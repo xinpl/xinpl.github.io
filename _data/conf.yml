@@ -9,6 +9,9 @@
 #  code:
 #  other:
 
+- title: "Guiding LLM-based Loop Invariant Synthesis via Feedback on Local Reasoning Errors"
+  conference: "<b>TOPLAS 2026</b>: ACM Transactions on Programming Languages and Systems. (To Appear)"
+
 - title: "Abstract Interpretation with Confidence"
   conference: "<b>PLDI 2026</b>: ACM SIGPLAN Conference on Programming Language Design and Implementation. (Conditional Accept)"
   authors: "Yuanfeng Shi, Ziyue Jin, Xin Zhang*"
