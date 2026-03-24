@@ -11,7 +11,7 @@
 
 - title: "Guiding LLM-based Loop Invariant Synthesis via Feedback on Local Reasoning Errors"
   conference: "<b>TOPLAS 2026</b>: ACM Transactions on Programming Languages and Systems. (To Appear)"
-  authors: "Tianchi Li, Zhenyu Yan, Junhao Liu, Peng Di, Xin Zhang"
+  authors: "Tianchi Li, Zhenyu Yan, Junhao Liu, Peng Di, Xin Zhang*"
 
 - title: "Abstract Interpretation with Confidence"
   conference: "<b>PLDI 2026</b>: ACM SIGPLAN Conference on Programming Language Design and Implementation. (Conditional Accept)"
