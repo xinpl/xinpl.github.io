@@ -1,12 +1,140 @@
-- date: Feburary 10, 2015
-  content: "I have been selected as a winnder of the 2015-2016 Facebook Fellowship. Thank you, Facebook!"
+#- date: April 12, 2017
+#  content: "<b>Upcoming talks</b>:
+#          <ul>
+#          <li>February 28 at <a href=\"https://www.cs.rice.edu/EventsList.aspx?EventRecord=32376\">Rice</a>.</li>
+#          <li>March 8 at <a href=\"http://cse.ucsd.edu/about/adaptive-program-reasoning-online-learning\">UCSD</a>.</li>
+#          <li>March 21 at <a href=\"https://www.cs.ucsb.edu\">UCSB</a>.</li>
+#          <li>April 6 at <a href=\"https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/\">MSR Redmond</a>.</li>
+#          <li>May 2 at <a href=\"https://www.cs.washington.edu\">UW</a>.</li>
+#          </ul>
+#          "
 
-- date: June 11, 2014
-  content: "Our paper <b>On Abstraction Refinement for Program Analyses in Datalog</b> won the <font color=\"red\">Distinguished Paper Award<b></b></font> of PLDI'14!"
+- date: March 2026
+  content: New paper to appear in TOPLAS about applying LLMs to generate loop invariants with autoformalization.
+
+- date: March 2026
+  content: New paper conditionally accepted at PLDI'26.
+
+- date: Feb 2026
+  content: New paper at OOPSLA'26 on incorporating the exploration-exploitation scheme in Bayesian program analysis to improve the learning effectiveness.
+
+- date: Oct 2025
+  content: Two papers conditionally accepted at POPL'26.
+
+- date: Oct 2025
+  content: Two new papers at OOPSLA'25. One on how to combine informal information and formal information in program analysis. The other on how to apply CEGAR to find good representations for Bayesian program analyses.
+
+- date: Aug 2025
+  content: New paper at ASE'25 on how to exploit logical structures in constraints to accelerate probabilistic inference. 
+
+- date: June 2025
+  content: New TSE paper on how to apply Bayesin reasoning to fault localization.
+
+- date: Dec 2024
+  content: New paper on adding temporal information to machine learning model explanations at AAAI'25.
+
+- date: June 2024
+  content: Two new papers at OOPSLA'24. One on how to combine graph neural networks and constraint solving to scale precise program analyses. The other on how to find good representations for program analyses based on Bayesian learning.
+
+#- date: March 2022
+#  content: I have two openings for Ph.D. students this year. If you're interested in topics related to program analysis, program synthesis, and reliable machine learning, please apply to our program and contact me!
+#
+#- date: Feb 2022
+#  content: New paper on applying Bayesian methods to semantics-based fault localization at ICSE'22.
+#
+#- date: July 2021
+#  content: New paper on accelerating static analyses at SAS'21. 
+#
+#- date: May 2021
+#  content: New paper on supporting causal inference in probabilistic programming at ICML'21.
+#
+#  #- date: Sep 13, 2020
+#  #  content: I am actively <b>recruiting</b> motivated Ph.D. students! If you're interested, please apply to our graduate program. If you're an undergraduate at Peking who wants to try out research, feel free to contact me!
+#
+#- date: Sep 1, 2020
+#  content: "I will serve on the program committees of <a href=\"https://pldi21.sigplan.org\">PLDI'21</a> and <a href=\"https://www.ijcai.org/future_conferences\">IJCAI'21</a>. Please consider submitting to them!"
+#
+##- date: Feb 11, 2020
+##  content: "Tentative travel plan for the spring: <ul><li>University of Maryland</li> <li>University of Michigan</li> <li>McGill University</li> <li>National University of Singapore</li> <li>Carnegie Mellon University</li></ul>"
+#
+#- date: Oct 1, 2019
+#  content: "New paper at <a href=\"https://conf.researchr.org/track/splash-2019/splash-2019-oopsla\">OOPSLA'19</a> on scalable verification of algorithmic fairness."
+#
+#- date: Aug 15, 2019
+#  content: "I will serve on the external review committee of <a href=\"https://conf.researchr.org/home/pldi-2020\">PLDI'20</a>. Please consider submitting."
+#
+#- date: Feb 15, 2019
+#  content: "I will serve on the program committee of <a href=\"http://staticanalysis.org/sas2019/\">SAS'19</a>. Please consider submitting."
+#
+#- date: Sep 4, 2018
+#  content: "New <a href=\"https://arxiv.org/abs/1802.07384\">paper</a> on providing actional explanations to judgments produced by a neural network at <a href=\"https://nips.cc/\">NIPS'18</a>."
+#
+#- date: Aug 8, 2018
+#  content: "New poster about conditioning on distributional properties in probablistic programming at <a href=\"https://probprog.cc/\">PROBPROG'18</a>."
+#
+    #- date: Dec 2, 2017
+    #  content: "Invited tutorial about our work on Maximum Satisfiability in Software Analysis at <a href=\"http://cavconference.org/2017/invited-tutorial-speakers/\">CAV'17</a> and <a href=\"https://popl18.sigplan.org/track/VMCAI-2018\">VMCAI'18</a>."
+    #
+    #- date: August 11, 2017
+    #  content: "I will serve on the program committee of <a href=\"http://pldi18.sigplan.org\">PLDI'18</a>."
+    #
+    #- date: August 11, 2017
+    #  content: "New paper at <a href=\"http://2017.splashcon.org/track/splash-2017-OOPSLA\">OOPSLA'17</a> on interactively resolving static analysis alarms."
+    #
+    #- date: April 25, 2017
+    #  content: "New workshop paper at <a href=\"https://sites.google.com/view/mapl2017/home\">MAPL'17</a> on combining logical and probabilistic reasoning in program analysis."
+    #
+    #- date: April 12, 2017
+    #  content: "I will serve on the program committee of <a href=\"http://staff.ustc.edu.cn/~xyfeng/APLAS17/\">APLAS'17</a>."
+    #
+    #- date: March 28, 2017
+    #  content: "<b>Outstanding Graduate Research Award</b> from College of Computing, Georgia Tech."
+
+#- date: May 2, 2017
+#  content: "Talk at <a href=\"https://www.cs.washington.edu\">UW</a>."
+#
+#- date: March 21, 2017
+#  content: "Talk at <a href=\"https://www.cs.ucsb.edu\">UCSB</a>."
+#
+#- date: March 8, 2017
+#  content: "Talk at <a href=\"http://cse.ucsd.edu/about/adaptive-program-reasoning-online-learning\">UCSD</a>." 
+#
+#- date: February 28, 2017
+#  content: "Talk at <a href=\"https://www.cs.rice.edu/EventsList.aspx?EventRecord=32376\">Rice</a>."
+
+#- date: August 19, 2016
+#  content: "I will serve on the external review committee of <a href=\"http://pldi17.sigplan.org\">PLDI'17</a>."
+#
+#- date: August 2, 2016
+#  content: "New paper at OOPSLA'16 on accelerating program analyses by reusing their results on shared library code."
+#
+#- date: August 2, 2016
+#  content: "New paper at CP'16 on incremental MaxSAT solving."
+#
+#- date: Nov 21, 2015
+#  content: "I will serve on the program committee for SPLASH 2016 Posters, please consider <a href=\"http://2016.splashcon.org/track/splash-2016-posters\">submitting</a>."
+#
+#- date: Nov 21, 2015
+#  content: "New paper at AAAI'16 on statistical relational inference."
+#
+#- date: Oct 5, 2015
+#  content: "New paper at POPL'16 on query-guided maximum satisfiability."
+#
+#- date: Sep 3, 2015
+#  content: "Our paper <b>A User-Guided Approach to Program Analysis</b> won the <font color=\"red\">Distinguished Paper Award<b></b></font> at FSE'15!"
+#
+#- date: May 26, 2015
+#  content: "Two papers accepted by FSE'15."
+#
+#- date: February 10, 2015
+  content: "I have been selected as a winner of the 2015-2016 <b>Facebook Fellowship</b>. Thank you, Facebook!"
+
+#- date: June 11, 2014
+#  content: "Our paper <b>On Abstraction Refinement for Program Analyses in Datalog</b> won the <font color=\"red\">Distinguished Paper Award<b></b></font> at PLDI'14!"
  
-- date: June 10, 2014
-  content: "I presented our paper <b>On Abstraction Refinement for Program Analyses in Datalog</b>  at PLDI'14, Edinburgh UK."	
-
-- date: March 16, 2014
-  content: "I presented our proposal <b>Architectures and Systems for Mobile-Cloud Computing: A Workload-Driven Perspective</b> as one of the <a href=\"https://www.qualcomm.com/invention/research/university-relations/innovation-fellowship\">Qualcomm Innovcation Fellowship</a> finalists."
-
+#- date: June 10, 2014
+#  content: "I presented our paper <b>On Abstraction Refinement for Program Analyses in Datalog</b>  at PLDI'14, Edinburgh UK."	
+#
+#- date: March 16, 2014
+#  content: "I presented our proposal <b>Architectures and Systems for Mobile-Cloud Computing: A Workload-Driven Perspective</b> as one of the <a href=\"https://www.qualcomm.com/invention/research/university-relations/innovation-fellowship\">Qualcomm Innovcation Fellowship</a> finalists."
+#

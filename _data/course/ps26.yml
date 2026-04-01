@@ -19,10 +19,10 @@
   slides: /slides/courses/ps/26/lecture4.pdf
   supp:  "Chapter 8 of <a href=\"https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf\">Pattern Recognition and Machine Learning</a>"
 
- - date: April 1
-   title: Approximate Inference
-   slides: /slides/courses/ps/26/lecture5.pdf
-   supp: "Chapter 10&11 of <a href=\"https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf\">Pattern Recognition and Machine Learning</a>"
+- date: April 1
+  title: Approximate Inference
+  slides: /slides/courses/ps/26/lecture5.pdf
+  supp: "Chapter 10&11 of <a href=\"https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf\">Pattern Recognition and Machine Learning</a>"
               
 # - date: Mar 25
 #   title: Semantics of Probabilistic Programming 

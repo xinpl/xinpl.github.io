@@ -1,4 +1,12 @@
+- title: "A User-Guided Approach to Program Analysis"
+  des: "New Jersey Programming Languages and Systems Seminar (NJPLS), September 2016."
+  slides: /slides/njpls_talk.pptx
+
+- title: "Petablox: Declarative Program Analysis for Big Code"
+  des: "Facebook, UC Berkeley, and Google, July/August 2016."
+  slides: /slides/petablox.pptx
+
 - title: "Architectures and Systems for Mobile-Cloud Computing: A Workload-Driven Perspective"
-  des: "Santa Clara CA, March, 2014. Qualcomm Innovcation Fellowship Finalist Presentation."
+  des: "Qualcomm, March 2014. Qualcomm Innovcation Fellowship Finalist Presentation."
   slides: /slides/mcc.pptx
   poster: /posters/mcc.pdf
