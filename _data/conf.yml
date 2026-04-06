@@ -74,7 +74,7 @@
 
 - title: "贝叶斯程序分析"
   conference: "电子学报 2024"
-  authors: "张昕, 王冠成, 吴宜谦, 陈逸凡, 李天驰, 张羿凡, 熊英飞*"
+  authors: "张昕, 王冠成, <u>吴宜谦</u>, <u>陈逸凡</u>, <u>李天驰</u>, <u>张羿凡</u>, 熊英飞*"
 
 
 - title: "A Probabilistic Delta Debugging Approach for Abstract Syntax Trees"
