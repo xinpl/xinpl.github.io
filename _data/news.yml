@@ -22,7 +22,7 @@
   content: New paper at OOPSLA'26 on incorporating the exploration-exploitation scheme in Bayesian program analysis to improve the learning effectiveness.
 
 - date: Oct 2025
-  content: Two papers conditionally accepted at POPL'26.
+  content: Two papers at POPL'26. One on guiding fuzzing with Bayesian program analysis. The other on optimizing domain-specific languages for accelerating syntax-guided program synthesis.
 
 - date: Oct 2025
   content: Two new papers at OOPSLA'25. One on how to combine informal information and formal information in program analysis. The other on how to apply CEGAR to find good representations for Bayesian program analyses.
