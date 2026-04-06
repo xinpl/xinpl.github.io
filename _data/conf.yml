@@ -9,63 +9,67 @@
 #  code:
 #  other:
 
+- title: "Revitalizing Black-Box Interpretability: Actionable Interpretability for LLMs via Proxy Models"
+  conference: "<b>ACL 2026</b>: Annual Meeting of the Association for Computational Linguistics. (To Appear)"
+  authors: "<u>Junhao Liu</u>, <u>Haonan Yu</u>, <u>Zhenyu Yan</u>, Xin Zhang*"
+
 - title: "Guiding LLM-based Loop Invariant Synthesis via Feedback on Local Reasoning Errors"
   conference: "<b>TOPLAS 2026</b>: ACM Transactions on Programming Languages and Systems. (To Appear)"
-  authors: "Tianchi Li, Zhenyu Yan, Junhao Liu, Peng Di, Xin Zhang*"
+  authors: "<u>Tianchi Li</u>, <u>Zhenyu Yan</u>, <u>Junhao Liu</u>, Peng Di, Xin Zhang*"
 
 - title: "Abstract Interpretation with Confidence"
-  conference: "<b>PLDI 2026</b>: ACM SIGPLAN Conference on Programming Language Design and Implementation. (Conditional Accept)"
-  authors: "Yuanfeng Shi, Ziyue Jin, Xin Zhang*"
+  conference: "<b>PLDI 2026</b>: ACM SIGPLAN Conference on Programming Language Design and Implementation. (To Appear)"
+  authors: "<u>Yuanfeng Shi</u>, <u>Ziyue Jin</u>, Xin Zhang*"
 
 - title: "Beer: Interactive Alarm Resolution in Bayesian Program Analysis via Exploration-Exploitation"
   conference: "<b>OOPSLA 2026</b>: ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications. (To Appear)"
-  authors: "Haoran Lin, Zhenyu Yan, Xin Zhang*"
+  authors: "<u>Haoran Lin</u>, <u>Zhenyu Yan</u>, Xin Zhang*"
   paper: /papers/oopsla26.pdf
 
 - title: "Fuzzing Guided by Bayesian Program Analysis"
   conference: "<b>POPL 2026</b>: ACM SIGPLAN Symposium on Principles of Programming Languages."
-  authors: "Yifan Zhang, Xin Zhang*"
+  authors: "<u>Yifan Zhang</u>, Xin Zhang*"
   paper: /papers/popl26a.pdf
 
 - title: "Accelerating Syntax-Guided Program Synthesis by Optimizing Domain-Specific Languages"
   conference: "<b>POPL 2026</b>: ACM SIGPLAN Symposium on Principles of Programming Languages."
-  authors: "Zhentao Ye, Ruyi Ji, Yingfei Xiong, Xin Zhang*"
+  authors: "<u>Zhentao Ye</u>, Ruyi Ji, Yingfei Xiong, Xin Zhang*"
   paper: /papers/popl26b.pdf
 
 - title: "Belief Propagation with Local Structure and Its Applications in Program Analysis"
   conference: "<b>ASE 2025</b>: IEEE/ACM International Conference on Automated Software Engineering."
-  authors: "Yiqian Wu, Yifan Chen, Yingfei Xiong, Xin Zhang*"
+  authors: "<u>Yiqian Wu</u>, Yifan Chen, Yingfei Xiong, Xin Zhang*"
   paper: /papers/ase25.pdf
 
 - title: "On Abstraction Refinement for Bayesian Program Analysis"
   conference: "<b>OOPSLA 2025</b>: ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications."
-  authors: "Yuanfeng Shi, Yifan Zhang, Xin Zhang*"
+  authors: "<u>Yuanfeng Shi</u>, <u>Yifan Zhang</u>, Xin Zhang*"
   paper: /papers/oopsla25b.pdf
 
 - title: "Combining Formal and Informal Information in Bayesian Program Analysis via Soft Evidences"
   conference: "<b>OOPSLA 2025</b>: ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications."
-  authors: "Tianchi Li, Xin Zhang*"
+  authors: "<u>Tianchi Li</u>, Xin Zhang*"
   paper: /papers/oopsla25a.pdf
 
 - title: "SmartFL: Semantics Based Probabilistic Fault Localization"
   conference: "<b>TSE 2025</b>: Transactions on Software Engineering."
-  authors: "Yiqian Wu, Yujie Liu, Yi Yin, Muhan Zeng, Zhentao Ye, Xin Zhang*, Yingfei Xiong, Lu Zhang"
+  authors: "<u>Yiqian Wu</u>, Yujie Liu, Yi Yin, Muhan Zeng, Zhentao Ye, Xin Zhang*, Yingfei Xiong, Lu Zhang"
   paper: /papers/tse25.pdf
 
 - title: "ReX: A Framework for Incorporating Temporal Information in Model-Agnostic Local Explanation Techniques"
   conference: "<b>AAAI 2025</b>: Annual AAAI Conference on Artificial Intelligence. (<font color='red'>Oral, 4.68%</font>)"
-  authors: "Junhao Liu, Xin Zhang*"
+  authors: "<u>Junhao Liu</u>, Xin Zhang*"
   paper: /papers/aaai25.pdf
 
 - title: "Scaling Abstraction Refinement for Program Analyses in Datalog Using Graph Neural Networks"
   conference: "<b>OOPSLA 2024</b>: ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications."
-  authors: "Zhenyu Yan, Xin Zhang*, Peng Di"
+  authors: "<u>Zhenyu Yan</u>, Xin Zhang*, Peng Di"
   paper: /papers/oopsla24b.pdf
 
 
 - title: "Learning Abstraction Selection for Bayesian Program Analysis"
   conference: "<b>OOPSLA 2024</b>: ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications."
-  authors: "Yifan Zhang, Yuanfeng Shi, Xin Zhang*"
+  authors: "<u>Yifan Zhang</u>, <u>Yuanfeng Shi</u>, Xin Zhang*"
   paper: /papers/oopsla24a.pdf 
 
 - title: "贝叶斯程序分析"
@@ -75,18 +79,18 @@
 
 - title: "A Probabilistic Delta Debugging Approach for Abstract Syntax Trees"
   conference: "<b>ISSRE 2023</b>: International Symposium on Software Reliability Engineering."
-  authors: "Guancheng Wang, Yiqian Wu, Qihao Zhu, Yingfei Xiong*, Xin Zhang, Lu Zhang"
+  authors: "Guancheng Wang, <u>Yiqian Wu</u>, Qihao Zhu, Yingfei Xiong*, Xin Zhang, Lu Zhang"
   paper: /papers/issre23.pdf 
 
 - title: "Fault Localization via Efficient Probabilistic Modeling of Program Semantics"
   conference: "<b>ICSE 2022</b>: International Conference on Software Engineering."
-  authors: "Muhan Zeng#, Yiqian Wu#, Zhentao Ye, Yingfei Xiong*, Xin Zhang, Lu Zhang (#: equal contribution)"
+  authors: "Muhan Zeng#, <u>Yiqian Wu</u>#, Zhentao Ye, Yingfei Xiong*, Xin Zhang, Lu Zhang (#: equal contribution)"
   paper: /papers/icse22.pdf
  
 
 - title: "Accelerating Program Analyses in Datalog by Merging Library Facts"
   conference: "<b>SAS 2021</b>: Static Analysis Symposium."
-  authors: "Yifan Chen, Chenyang Yang, Xin Zhang*, Yingfei Xiong, Hao Tang, Xiaoyin Wang, Lu Zhang"
+  authors: "<u>Yifan Chen</u>, Chenyang Yang, Xin Zhang*, Yingfei Xiong, Hao Tang, Xiaoyin Wang, Lu Zhang"
   paper: /papers/sas21.pdf
 
 - title: "A Language for Counterfactual Generative Models"
