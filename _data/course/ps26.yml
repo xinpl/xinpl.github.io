@@ -29,15 +29,10 @@
   slides: /slides/courses/ps/26/lecture6.pdf
   supp: "<a href=\"https://www.cs.cornell.edu/~sridharan/concentration.pdf\">A Gentle Introduction to Concentration Inequalities</a>"
 
-# - date: Apri 1
-#   title: Midterm
-#   slides: /
-#   supp: 
-
-# - date: April 7
-#   title: Inference in Probabilistic Programming I 
-#   slides: /slides/courses/pp/24/lecture7.pdf
-#   supp: "Chapter 3 of <a href=\"https://arxiv.org/abs/1809.10756\">An Introduction to Probabilistic Programming</a>"
+- date: April 14
+  title: Inference in Probabilistic Programming I 
+  slides: /slides/courses/ps/26/lecture7.pdf
+  supp: "Chapter 3 of <a href=\"https://arxiv.org/abs/1809.10756\">An Introduction to Probabilistic Programming</a>"
     
 #     #    
 #     #   # 
