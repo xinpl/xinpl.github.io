@@ -14,8 +14,9 @@
   authors: "<u>Junhao Liu</u>, <u>Haonan Yu</u>, <u>Zhenyu Yan</u>, Xin Zhang*"
 
 - title: "Guiding LLM-based Loop Invariant Synthesis via Feedback on Local Reasoning Errors"
-  conference: "<b>TOPLAS 2026</b>: ACM Transactions on Programming Languages and Systems. (To Appear)"
+  conference: "<b>TOPLAS 2026</b>: ACM Transactions on Programming Languages and Systems."
   authors: "<u>Tianchi Li</u>, <u>Zhenyu Yan</u>, <u>Junhao Liu</u>, Peng Di, Xin Zhang*"
+  paper: /papers/toplas26.pdf
 
 - title: "Abstract Interpretation with Confidence"
   conference: "<b>PLDI 2026</b>: ACM SIGPLAN Conference on Programming Language Design and Implementation. (To Appear)"
