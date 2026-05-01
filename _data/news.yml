@@ -9,6 +9,9 @@
 #          </ul>
 #          "
 
+- date: May 2026
+  content: New papers at ICML'26 and IJCAI'26 on scaling interpretability methods for LLM models.
+
 - date: April 2026
   content: New paper at ACL'26 on explaining LLM decisions with cheap proxy models.
 

@@ -9,6 +9,14 @@
 #  code:
 #  other:
 
+- title: "MAnchors: Memorization-Based Acceleration of Anchors via Rule Reuse and Transformation"
+  conference: "<b>ICML 2026</b>: International Conference on Machine Learning. (To Appear)"
+  authors: "<u>Haonan Yu</u>, <u>Junhao Liu</u>, Xin Zhang*"
+
+- title: "Focus-LIME: Surgical Interpretation of Long-Context Large Language Models via Proxy-Based Neighborhood Selection"
+  conference: "<b>IJCAI 2026</b>: International Joint Conference on Artificial Intelligence. (To Appear)"
+  authors: "<u>Junhao Liu</u>, <u>Haonan Yu</u>, <u>Zhenyu Yan</u>, Xin Zhang*"
+
 - title: "Revitalizing Black-Box Interpretability: Actionable Interpretability for LLMs via Proxy Models"
   conference: "<b>ACL 2026</b>: Annual Meeting of the Association for Computational Linguistics. (To Appear)"
   authors: "<u>Junhao Liu</u>, <u>Haonan Yu</u>, <u>Zhenyu Yan</u>, Xin Zhang*"
