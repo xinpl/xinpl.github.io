@@ -53,7 +53,13 @@
   slides: /slides/courses/ps/26/lecture9.pdf
   supp: "<a href=\"https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A7964205E44B5234A78C661192E294E1/9781108488518c1_1-42.pdf/semantics_of_probabilistic_programming_a_gentle_introduction.pdf\">Semantics of Probabilistic Programming: A Gentle Introduction</a>"
 
- 
+- date: May 13
+  title: Probabilistic Logic Programming
+  slides: /slides/courses/ps/26/lecture10.pdf
+  supp: "<a href=\"https://cacm.acm.org/magazines/2015/7/188745-unifying-logic-and-probability/fulltext\">Unifying Logic and Probability</a>"
+
+
+
 #     #    
 #     #- date: May 15
 #     #  title: Learning Algorithms 
