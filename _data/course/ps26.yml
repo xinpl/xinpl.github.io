@@ -45,7 +45,7 @@
 #     #    #
 - date: April 29
   title: Inference in Probabilistic Programming II 
-  slides: /slides/courses/pp/25/lecture8.pdf
+  slides: /slides/courses/ps/26/lecture8.pdf
   supp: "Chapter 4 of <a href=\"https://arxiv.org/abs/1809.10756\">An Introduction to Probabilistic Programming</a>"
 
 - date: May 6
