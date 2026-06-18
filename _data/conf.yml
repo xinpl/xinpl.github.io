@@ -9,6 +9,10 @@
 #  code:
 #  other:
 
+- title: "GPU-Accelerated Belief Propagation for Program Analysis"
+  conference: "<b>ASE 2026</b>: IEEE/ACM International Conference on Automated Software Engineering. (To Appear)"
+  authors: "<u>Haoyu Feng</u>, Xin Zhang*"
+
 - title: "MAnchors: Memorization-Based Acceleration of Anchors via Rule Reuse and Transformation"
   conference: "<b>ICML 2026</b>: International Conference on Machine Learning. (To Appear)"
   authors: "<u>Haonan Yu</u>, <u>Junhao Liu</u>, Xin Zhang*"
@@ -27,8 +31,9 @@
   paper: /papers/toplas26.pdf
 
 - title: "Abstract Interpretation with Confidence"
-  conference: "<b>PLDI 2026</b>: ACM SIGPLAN Conference on Programming Language Design and Implementation. (To Appear)"
+  conference: "<b>PLDI 2026</b>: ACM SIGPLAN Conference on Programming Language Design and Implementation."
   authors: "<u>Yuanfeng Shi</u>, <u>Ziyue Jin</u>, Xin Zhang*"
+  paper: /papers/pldi26.pdf
 
 - title: "Beer: Interactive Alarm Resolution in Bayesian Program Analysis via Exploration-Exploitation"
   conference: "<b>OOPSLA 2026</b>: ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications. (To Appear)"
@@ -220,5 +225,4 @@
   conference: "<b>ICSE 2012</b>: International Conference on Software Engineering."
   authors: "Cheng Zhang, Juyuan Yang, Yi Zhang, Jing Fan, Xin Zhang, Jianjun Zhao and Peizhao Ou."
   paper: /papers/icse12.pdf
-
 

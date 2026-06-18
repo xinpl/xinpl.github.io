@@ -9,6 +9,9 @@
 #          </ul>
 #          "
 
+- date: June 2026
+  content: New paper at ASE'26 on accelerating probabilistic inference using GPUs.
+
 - date: May 2026
   content: New papers at ICML'26 and IJCAI'26 on scaling interpretability methods for LLM models.
 
