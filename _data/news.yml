@@ -9,6 +9,9 @@
 #          </ul>
 #          "
 
+- date: August 2026
+  content: New paper at OOPSLA'26 on resolving static analysis alarms using Bayesian reasoning and LLMs.
+
 - date: June 2026
   content: New paper at ASE'26 on accelerating probabilistic inference using GPUs.
 
