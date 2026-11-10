@@ -11,7 +11,7 @@
 
 - title: "Abstract Interpretation with Error Bounds"
   conference: "<b>POPL 2027</b>: ACM SIGPLAN Symposium on Principles of Programming Languages. (To Appear)"
-  authors: "<u>Yuanfeng Shi</u>, <u>Ziyue Jin</u>, Xin Zhang"
+  authors: "<u>Yuanfeng Shi</u>, <u>Ziyue Jin</u>, Xin Zhang*"
 
 - title: "LLM-Based Alarm Resolution Guided by Bayesian Program Analysis"
   conference: "<b>OOPSLA 2026</b>: ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications."
@@ -20,7 +20,7 @@
 
 
 - title: "Beer: Interactive Alarm Resolution in Bayesian Program Analysis via Exploration-Exploitation"
-  conference: "<b>OOPSLA 2026</b>: ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications. (To Appear)"
+  conference: "<b>OOPSLA 2026</b>: ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications."
   authors: "<u>Haoran Lin</u>, <u>Zhenyu Yan</u>, Xin Zhang*"
   paper: /papers/oopsla26.pdf
 
