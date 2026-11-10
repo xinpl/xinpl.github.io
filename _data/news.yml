@@ -9,6 +9,9 @@
 #          </ul>
 #          "
 
+- date: November 2026
+  content: New paper at POPL'27 on quantifying the errors of abstract interpretation.
+
 - date: August 2026
   content: New paper at OOPSLA'26 on resolving static analysis alarms using Bayesian reasoning and LLMs.
 
